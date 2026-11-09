@@ -1,0 +1,1006 @@
+expense_id,employee_id,department,category,amount,expense_date,payment_method,vendor
+EXP0001,EMP121,Marketing,Accommodation,3284.04,2025-03-13,Bank Transfer,Global Hotels
+EXP0002,EMP140,IT,Office Supplies,1310.35,2025-04-10,Cash,Tech Solutions
+EXP0003,EMP102,Sales,Food,1138.6,2025-10-21,Cash,Office World
+EXP0004,EMP144,Sales,Travel,3173.33,2025-01-22,Credit Card,ABC Travels
+EXP0005,EMP116,IT,Office Supplies,1179.69,2025-07-07,Bank Transfer,Cloud Services
+EXP0006,EMP103,IT,Software,4599.64,2025-11-16,Credit Card,Tech Solutions
+EXP0007,EMP114,Sales,Travel,1857.78,2025-03-30,Debit Card,Global Hotels
+EXP0008,EMP128,Finance,Food,326.97,2025-12-06,Bank Transfer,Office World
+EXP0009,EMP114,Marketing,Accommodation,7832.36,2025-02-04,Credit Card,Office World
+EXP0010,EMP142,HR,Software,3181.98,2025-02-23,Cash,Cloud Services
+EXP0011,EMP110,Sales,Food,1207.67,2025-06-11,Debit Card,Office World
+EXP0012,EMP116,Marketing,Travel,6786.45,2025-08-01,Credit Card,Global Hotels
+EXP0013,EMP145,Sales,Food,1454.83,2025-07-07,Credit Card,Food Express
+EXP0014,EMP124,Sales,Travel,1586.0,2025-01-09,Credit Card,Office World
+EXP0015,EMP135,IT,Office Supplies,1855.09,2025-06-12,Credit Card,Tech Solutions
+EXP0016,EMP128,Sales,Food,666.01,2025-02-10,Bank Transfer,ABC Travels
+EXP0017,EMP124,Marketing,Food,324.03,2025-03-03,Credit Card,Tech Solutions
+EXP0018,EMP137,Marketing,Training,5436.06,2025-08-15,Bank Transfer,Cloud Services
+EXP0019,EMP114,IT,Travel,5469.51,2025-09-12,Bank Transfer,Tech Solutions
+EXP0020,EMP132,Finance,Food,233.04,2025-06-28,Bank Transfer,ABC Travels
+EXP0021,EMP137,Marketing,Accommodation,5559.99,2025-08-10,Bank Transfer,City Transport
+EXP0022,EMP132,Sales,Office Supplies,746.73,2025-01-13,Bank Transfer,Tech Solutions
+EXP0023,EMP145,IT,Training,5402.34,2025-06-19,Debit Card,ABC Travels
+EXP0024,EMP144,Sales,Training,3282.67,2025-04-18,Cash,Cloud Services
+EXP0025,EMP133,IT,Food,358.71,2025-08-19,Credit Card,ABC Travels
+EXP0026,EMP103,IT,Training,1002.6,2025-08-21,Bank Transfer,Cloud Services
+EXP0027,EMP142,IT,Travel,4166.56,2025-08-13,Cash,Learning Hub
+EXP0028,EMP149,IT,Training,2093.82,2025-08-21,Debit Card,ABC Travels
+EXP0029,EMP102,HR,Software,2728.13,2025-10-22,Bank Transfer,ABC Travels
+EXP0030,EMP149,Sales,Travel,6987.57,2025-07-06,Debit Card,Global Hotels
+EXP0031,EMP133,Marketing,Training,1165.25,2025-08-12,Credit Card,Tech Solutions
+EXP0032,EMP106,HR,Accommodation,5426.17,2025-06-09,Cash,City Transport
+EXP0033,EMP138,Marketing,Office Supplies,1113.24,2025-09-12,Cash,Food Express
+EXP0034,EMP116,Marketing,Food,1023.59,2025-08-28,Credit Card,ABC Travels
+EXP0035,EMP103,Marketing,Office Supplies,710.34,2025-12-15,Cash,Office World
+EXP0036,EMP120,IT,Software,1116.11,2025-05-27,Cash,City Transport
+EXP0037,EMP139,Marketing,Travel,5300.16,2025-05-08,Debit Card,Learning Hub
+EXP0038,EMP131,Finance,Office Supplies,1050.35,2025-05-31,Debit Card,Global Hotels
+EXP0039,EMP149,IT,Software,2224.68,2025-04-22,Debit Card,ABC Travels
+EXP0040,EMP141,Marketing,Accommodation,8302.93,2025-01-09,Bank Transfer,Tech Solutions
+EXP0041,EMP133,IT,Software,7209.6,2025-04-30,Cash,Office World
+EXP0042,EMP120,IT,Travel,2388.96,2025-04-14,Debit Card,Tech Solutions
+EXP0043,EMP102,Finance,Office Supplies,2442.06,2025-12-04,Debit Card,Tech Solutions
+EXP0044,EMP133,Sales,Travel,2467.59,2025-03-09,Debit Card,Food Express
+EXP0045,EMP148,Marketing,Office Supplies,1746.75,2025-02-02,Cash,Tech Solutions
+EXP0046,EMP130,IT,Training,2326.01,2025-08-26,Debit Card,Cloud Services
+EXP0047,EMP127,Sales,Office Supplies,2262.5,2025-10-10,Debit Card,Food Express
+EXP0048,EMP148,Finance,Software,5682.47,2025-11-13,Bank Transfer,Office World
+EXP0049,EMP128,IT,Travel,1739.82,2025-06-21,Debit Card,Food Express
+EXP0050,EMP137,Sales,Training,2850.79,2025-08-21,Cash,Food Express
+EXP0051,EMP133,Finance,Training,5833.27,2025-04-09,Cash,City Transport
+EXP0052,EMP103,Sales,Accommodation,3336.38,2025-06-10,Cash,Global Hotels
+EXP0053,EMP103,Finance,Food,1417.0,2025-02-27,Cash,Cloud Services
+EXP0054,EMP127,HR,Training,2793.23,2025-05-07,Debit Card,Global Hotels
+EXP0055,EMP148,HR,Travel,6167.68,2025-10-26,Bank Transfer,Food Express
+EXP0056,EMP107,HR,Food,1253.15,2025-01-13,Credit Card,Office World
+EXP0057,EMP112,Sales,Software,5549.75,2025-05-22,Bank Transfer,City Transport
+EXP0058,EMP122,Marketing,Food,322.18,2025-08-03,Bank Transfer,ABC Travels
+EXP0059,EMP122,HR,Training,2432.71,2025-11-10,Credit Card,Office World
+EXP0060,EMP133,HR,Training,2516.33,2025-04-11,Cash,Food Express
+EXP0061,EMP104,Marketing,Software,7756.76,2025-04-13,Debit Card,Food Express
+EXP0062,EMP140,Marketing,Training,3703.18,2025-11-07,Cash,Learning Hub
+EXP0063,EMP119,Sales,Food,871.19,2025-06-07,Credit Card,Learning Hub
+EXP0064,EMP137,IT,Software,6208.3,2025-12-12,Debit Card,Food Express
+EXP0065,EMP101,Finance,Software,3862.67,2025-02-27,Bank Transfer,Global Hotels
+EXP0066,EMP139,Finance,Accommodation,3959.54,2025-09-29,Cash,City Transport
+EXP0067,EMP126,Sales,Training,4650.2,2025-03-17,Cash,Tech Solutions
+EXP0068,EMP105,Sales,Training,1071.97,2025-08-08,Bank Transfer,ABC Travels
+EXP0069,EMP126,Marketing,Accommodation,5319.22,2025-08-06,Cash,Food Express
+EXP0070,EMP123,Marketing,Travel,4055.71,2025-12-23,Debit Card,Global Hotels
+EXP0071,EMP110,Sales,Software,1317.13,2025-08-11,Debit Card,Tech Solutions
+EXP0072,EMP116,HR,Travel,4466.58,2025-01-04,Cash,Learning Hub
+EXP0073,EMP127,HR,Travel,6269.59,2025-06-09,Cash,Learning Hub
+EXP0074,EMP133,Marketing,Food,945.38,2025-02-02,Credit Card,Tech Solutions
+EXP0075,EMP133,IT,Accommodation,6381.58,2025-03-06,Cash,Global Hotels
+EXP0076,EMP131,IT,Software,2917.73,2025-01-12,Debit Card,Global Hotels
+EXP0077,EMP117,Sales,Office Supplies,1660.16,2025-08-03,Debit Card,Learning Hub
+EXP0078,EMP141,Sales,Food,1086.1,2025-04-25,Bank Transfer,Office World
+EXP0079,EMP129,HR,Accommodation,4438.36,2025-03-16,Cash,Office World
+EXP0080,EMP110,Finance,Accommodation,8773.06,2025-06-13,Credit Card,ABC Travels
+EXP0081,EMP118,IT,Travel,5524.06,2025-02-05,Credit Card,City Transport
+EXP0082,EMP123,Sales,Software,4002.96,2025-01-13,Credit Card,Tech Solutions
+EXP0083,EMP120,Finance,Training,5512.76,2025-03-03,Cash,ABC Travels
+EXP0084,EMP112,Sales,Office Supplies,519.97,2025-04-10,Credit Card,ABC Travels
+EXP0085,EMP114,IT,Software,3484.34,2025-10-11,Bank Transfer,Learning Hub
+EXP0086,EMP105,Marketing,Office Supplies,1384.66,2025-05-24,Bank Transfer,Office World
+EXP0087,EMP123,Finance,Software,5707.63,2025-02-22,Cash,ABC Travels
+EXP0088,EMP105,Sales,Accommodation,5460.94,2025-08-11,Bank Transfer,City Transport
+EXP0089,EMP112,Sales,Office Supplies,1852.83,2025-08-27,Credit Card,Global Hotels
+EXP0090,EMP107,HR,Software,7068.08,2025-08-18,Debit Card,Food Express
+EXP0091,EMP102,HR,Travel,6020.23,2025-05-02,Credit Card,Food Express
+EXP0092,EMP101,Sales,Training,5933.2,2025-12-31,Debit Card,Office World
+EXP0093,EMP106,Finance,Travel,4755.39,2025-10-19,Cash,City Transport
+EXP0094,EMP127,IT,Accommodation,4645.91,2025-06-16,Debit Card,Global Hotels
+EXP0095,EMP150,IT,Training,3463.13,2025-05-21,Cash,Cloud Services
+EXP0096,EMP141,HR,Software,1831.73,2025-11-13,Bank Transfer,ABC Travels
+EXP0097,EMP149,IT,Accommodation,3662.55,2025-07-10,Credit Card,Learning Hub
+EXP0098,EMP144,Finance,Training,3181.68,2025-02-27,Credit Card,Learning Hub
+EXP0099,EMP121,Sales,Accommodation,4258.8,2025-03-21,Bank Transfer,Office World
+EXP0100,EMP118,Sales,Software,4876.98,2025-01-20,Bank Transfer,ABC Travels
+EXP0101,EMP103,Finance,Training,2472.47,2025-01-01,Cash,City Transport
+EXP0102,EMP116,Finance,Office Supplies,918.12,2025-08-12,Cash,Cloud Services
+EXP0103,EMP128,Marketing,Software,3349.62,2025-05-02,Cash,Global Hotels
+EXP0104,EMP137,HR,Software,5085.59,2025-08-08,Credit Card,Office World
+EXP0105,EMP133,IT,Training,1161.58,2025-07-20,Credit Card,Office World
+EXP0106,EMP135,Sales,Software,2896.7,2025-02-15,Credit Card,Cloud Services
+EXP0107,EMP125,HR,Office Supplies,1896.58,2025-10-30,Debit Card,Global Hotels
+EXP0108,EMP133,HR,Office Supplies,399.48,2025-04-29,Debit Card,ABC Travels
+EXP0109,EMP125,HR,Travel,3572.06,2025-10-09,Debit Card,Tech Solutions
+EXP0110,EMP141,IT,Travel,6110.81,2025-04-08,Bank Transfer,City Transport
+EXP0111,EMP128,Finance,Accommodation,2394.63,2025-01-06,Credit Card,Food Express
+EXP0112,EMP137,Sales,Training,5565.83,2025-01-23,Credit Card,Food Express
+EXP0113,EMP114,HR,Food,691.21,2025-03-26,Credit Card,Cloud Services
+EXP0114,EMP101,Finance,Office Supplies,904.41,2025-09-17,Credit Card,Learning Hub
+EXP0115,EMP126,HR,Software,2880.71,2025-02-08,Debit Card,Global Hotels
+EXP0116,EMP144,IT,Office Supplies,977.11,2025-02-23,Credit Card,Cloud Services
+EXP0117,EMP147,IT,Travel,4744.76,2025-09-12,Bank Transfer,City Transport
+EXP0118,EMP139,Sales,Accommodation,6475.53,2025-03-16,Debit Card,Learning Hub
+EXP0119,EMP118,Marketing,Food,655.76,2025-04-08,Debit Card,City Transport
+EXP0120,EMP138,IT,Office Supplies,2289.15,2025-11-04,Credit Card,Learning Hub
+EXP0121,EMP117,Marketing,Training,4110.43,2025-02-20,Credit Card,Food Express
+EXP0122,EMP117,Marketing,Food,1404.56,2025-11-26,Cash,Office World
+EXP0123,EMP143,Sales,Food,1007.05,2025-07-24,Bank Transfer,Learning Hub
+EXP0124,EMP116,IT,Office Supplies,1481.98,2025-05-31,Bank Transfer,Tech Solutions
+EXP0125,EMP132,Marketing,Software,3419.67,2025-07-14,Bank Transfer,Tech Solutions
+EXP0126,EMP119,Sales,Food,982.52,2025-02-20,Credit Card,Food Express
+EXP0127,EMP121,HR,Software,3433.33,2025-01-22,Debit Card,ABC Travels
+EXP0128,EMP134,Sales,Travel,3457.95,2025-02-15,Credit Card,Cloud Services
+EXP0129,EMP147,HR,Accommodation,4251.08,2025-10-09,Credit Card,Cloud Services
+EXP0130,EMP101,IT,Accommodation,2018.17,2025-10-19,Cash,ABC Travels
+EXP0131,EMP122,IT,Accommodation,8903.8,2025-10-30,Debit Card,Global Hotels
+EXP0132,EMP126,Marketing,Training,3312.67,2025-12-31,Debit Card,Tech Solutions
+EXP0133,EMP143,IT,Office Supplies,2269.46,2025-08-26,Bank Transfer,Office World
+EXP0134,EMP115,Sales,Food,781.64,2025-08-15,Cash,ABC Travels
+EXP0135,EMP139,Sales,Software,1140.5,2025-09-30,Debit Card,Global Hotels
+EXP0136,EMP125,Marketing,Travel,6397.9,2025-07-31,Cash,Global Hotels
+EXP0137,EMP136,IT,Travel,4241.43,2025-04-21,Bank Transfer,Cloud Services
+EXP0138,EMP141,HR,Travel,4604.52,2025-02-11,Credit Card,Cloud Services
+EXP0139,EMP145,Marketing,Food,989.82,2025-11-11,Debit Card,Food Express
+EXP0140,EMP106,Finance,Travel,1541.44,2025-10-04,Debit Card,City Transport
+EXP0141,EMP130,Marketing,Training,1932.84,2025-11-14,Bank Transfer,Learning Hub
+EXP0142,EMP137,Finance,Office Supplies,1453.93,2025-02-09,Cash,Learning Hub
+EXP0143,EMP115,HR,Software,7786.29,2025-01-04,Debit Card,Cloud Services
+EXP0144,EMP102,Finance,Training,1854.44,2025-03-03,Bank Transfer,Tech Solutions
+EXP0145,EMP106,HR,Office Supplies,2144.88,2025-05-13,Debit Card,Cloud Services
+EXP0146,EMP149,Marketing,Office Supplies,738.92,2025-01-20,Cash,City Transport
+EXP0147,EMP137,Finance,Food,1198.11,2025-02-07,Debit Card,Tech Solutions
+EXP0148,EMP106,Marketing,Accommodation,5728.13,2025-06-10,Debit Card,Learning Hub
+EXP0149,EMP102,HR,Accommodation,2443.62,2025-06-21,Credit Card,Learning Hub
+EXP0150,EMP109,HR,Software,2782.48,2025-04-11,Credit Card,ABC Travels
+EXP0151,EMP131,IT,Training,3059.2,2025-04-04,Credit Card,Food Express
+EXP0152,EMP134,Marketing,Software,3859.63,2025-05-17,Cash,Tech Solutions
+EXP0153,EMP129,IT,Travel,5576.16,2025-03-01,Cash,Tech Solutions
+EXP0154,EMP135,Finance,Accommodation,3411.39,2025-10-13,Credit Card,Food Express
+EXP0155,EMP104,Sales,Office Supplies,1763.43,2025-03-03,Credit Card,Food Express
+EXP0156,EMP139,HR,Travel,5256.4,2025-11-24,Cash,Cloud Services
+EXP0157,EMP115,IT,Accommodation,4109.65,2025-01-23,Credit Card,ABC Travels
+EXP0158,EMP140,Finance,Travel,3653.15,2025-11-05,Cash,Tech Solutions
+EXP0159,EMP108,IT,Training,5699.16,2025-06-28,Debit Card,Learning Hub
+EXP0160,EMP127,Marketing,Accommodation,5467.97,2025-08-19,Cash,Food Express
+EXP0161,EMP104,Finance,Travel,5388.39,2025-10-16,Debit Card,Global Hotels
+EXP0162,EMP138,HR,Accommodation,8137.36,2025-12-19,Credit Card,City Transport
+EXP0163,EMP115,Marketing,Accommodation,2892.42,2025-07-03,Credit Card,Learning Hub
+EXP0164,EMP145,Sales,Accommodation,3604.76,2025-11-28,Debit Card,Tech Solutions
+EXP0165,EMP143,IT,Office Supplies,1544.12,2025-10-09,Bank Transfer,Food Express
+EXP0166,EMP138,Marketing,Office Supplies,2409.96,2025-12-26,Debit Card,Learning Hub
+EXP0167,EMP113,HR,Training,4074.75,2025-08-06,Cash,Cloud Services
+EXP0168,EMP143,HR,Travel,2908.09,2025-04-14,Cash,Office World
+EXP0169,EMP108,Marketing,Software,6530.59,2025-10-20,Bank Transfer,Global Hotels
+EXP0170,EMP129,Finance,Software,3621.05,2025-02-20,Debit Card,Learning Hub
+EXP0171,EMP146,Finance,Training,5553.43,2025-09-14,Credit Card,Food Express
+EXP0172,EMP101,HR,Training,1931.6,2025-11-09,Bank Transfer,Cloud Services
+EXP0173,EMP109,IT,Accommodation,4655.14,2025-11-05,Debit Card,Office World
+EXP0174,EMP125,Finance,Accommodation,6226.05,2025-10-18,Debit Card,Tech Solutions
+EXP0175,EMP117,HR,Food,825.09,2025-12-13,Cash,Tech Solutions
+EXP0176,EMP124,IT,Software,7389.25,2025-07-01,Credit Card,City Transport
+EXP0177,EMP149,Marketing,Training,1169.4,2025-06-10,Credit Card,City Transport
+EXP0178,EMP107,IT,Training,2100.49,2025-02-18,Credit Card,Office World
+EXP0179,EMP128,Finance,Travel,4565.18,2025-12-08,Bank Transfer,Food Express
+EXP0180,EMP119,Finance,Travel,3204.65,2025-08-03,Debit Card,Learning Hub
+EXP0181,EMP116,Sales,Travel,1701.02,2025-10-13,Cash,Tech Solutions
+EXP0182,EMP150,HR,Travel,5765.4,2025-06-24,Debit Card,Cloud Services
+EXP0183,EMP104,Marketing,Travel,3704.2,2025-06-15,Credit Card,Learning Hub
+EXP0184,EMP133,Sales,Office Supplies,1121.28,2025-06-11,Bank Transfer,City Transport
+EXP0185,EMP101,Marketing,Food,1327.09,2025-01-08,Credit Card,City Transport
+EXP0186,EMP147,IT,Office Supplies,1412.12,2025-11-24,Credit Card,Tech Solutions
+EXP0187,EMP134,IT,Travel,4561.97,2025-09-21,Bank Transfer,Learning Hub
+EXP0188,EMP121,IT,Software,7610.87,2025-07-01,Debit Card,City Transport
+EXP0189,EMP121,HR,Food,311.16,2025-05-31,Bank Transfer,Learning Hub
+EXP0190,EMP118,Sales,Office Supplies,1582.69,2025-07-07,Debit Card,ABC Travels
+EXP0191,EMP123,Sales,Software,3351.06,2025-07-14,Bank Transfer,Office World
+EXP0192,EMP130,Marketing,Accommodation,4416.35,2025-09-13,Credit Card,Global Hotels
+EXP0193,EMP144,Sales,Software,2536.57,2025-12-08,Cash,ABC Travels
+EXP0194,EMP132,HR,Training,3437.16,2025-08-03,Credit Card,Global Hotels
+EXP0195,EMP102,IT,Travel,2977.73,2025-02-09,Credit Card,ABC Travels
+EXP0196,EMP126,Finance,Training,4225.27,2025-01-04,Debit Card,Food Express
+EXP0197,EMP106,Sales,Food,554.0,2025-03-16,Debit Card,Learning Hub
+EXP0198,EMP117,Sales,Food,949.47,2025-02-03,Credit Card,ABC Travels
+EXP0199,EMP122,HR,Software,2444.95,2025-12-28,Credit Card,Tech Solutions
+EXP0200,EMP112,Finance,Training,4660.92,2025-04-08,Credit Card,ABC Travels
+EXP0201,EMP146,Sales,Food,1388.74,2025-07-09,Cash,Global Hotels
+EXP0202,EMP136,Marketing,Training,4690.17,2025-11-03,Bank Transfer,Global Hotels
+EXP0203,EMP136,Sales,Accommodation,7859.55,2025-01-11,Credit Card,Tech Solutions
+EXP0204,EMP124,IT,Training,3380.25,2025-04-21,Debit Card,Cloud Services
+EXP0205,EMP120,Sales,Travel,2984.51,2025-08-27,Bank Transfer,Tech Solutions
+EXP0206,EMP143,Marketing,Office Supplies,2162.1,2025-12-31,Debit Card,ABC Travels
+EXP0207,EMP140,HR,Food,338.58,2025-07-20,Credit Card,ABC Travels
+EXP0208,EMP125,Finance,Accommodation,6818.82,2025-02-11,Bank Transfer,Tech Solutions
+EXP0209,EMP130,IT,Food,1239.24,2025-06-21,Debit Card,Global Hotels
+EXP0210,EMP117,Marketing,Office Supplies,992.11,2025-11-01,Debit Card,ABC Travels
+EXP0211,EMP119,Finance,Software,4793.31,2025-08-04,Cash,City Transport
+EXP0212,EMP108,Sales,Travel,5123.31,2025-07-17,Credit Card,Global Hotels
+EXP0213,EMP126,Finance,Software,2548.47,2025-12-31,Bank Transfer,Learning Hub
+EXP0214,EMP107,HR,Travel,2493.16,2025-03-27,Debit Card,City Transport
+EXP0215,EMP150,Sales,Travel,2559.29,2025-11-24,Bank Transfer,City Transport
+EXP0216,EMP117,Sales,Food,1168.58,2025-04-13,Debit Card,City Transport
+EXP0217,EMP103,IT,Software,1843.97,2025-04-08,Credit Card,Tech Solutions
+EXP0218,EMP129,HR,Software,5006.99,2025-01-04,Debit Card,ABC Travels
+EXP0219,EMP102,Sales,Food,876.22,2025-04-18,Bank Transfer,Tech Solutions
+EXP0220,EMP113,HR,Food,227.65,2025-09-04,Credit Card,Global Hotels
+EXP0221,EMP149,IT,Office Supplies,2495.46,2025-01-29,Credit Card,Cloud Services
+EXP0222,EMP147,Sales,Software,5392.54,2025-08-24,Credit Card,Global Hotels
+EXP0223,EMP103,Finance,Software,6163.08,2025-06-26,Credit Card,Cloud Services
+EXP0224,EMP125,HR,Software,6008.87,2025-10-20,Cash,ABC Travels
+EXP0225,EMP124,Sales,Training,1225.5,2025-11-01,Cash,Office World
+EXP0226,EMP139,IT,Food,1237.39,2025-07-17,Cash,City Transport
+EXP0227,EMP107,IT,Training,4067.06,2025-06-02,Cash,Office World
+EXP0228,EMP145,IT,Software,6864.78,2025-11-06,Debit Card,Global Hotels
+EXP0229,EMP103,IT,Food,699.32,2025-08-29,Cash,Cloud Services
+EXP0230,EMP149,Sales,Accommodation,6408.45,2025-08-03,Credit Card,Tech Solutions
+EXP0231,EMP118,Marketing,Food,882.54,2025-06-27,Debit Card,ABC Travels
+EXP0232,EMP147,IT,Office Supplies,793.77,2025-04-30,Credit Card,ABC Travels
+EXP0233,EMP141,Marketing,Training,5300.63,2025-09-24,Cash,Tech Solutions
+EXP0234,EMP125,IT,Software,4336.74,2025-07-14,Debit Card,Office World
+EXP0235,EMP105,HR,Travel,3309.78,2025-01-25,Bank Transfer,Tech Solutions
+EXP0236,EMP105,HR,Software,3608.82,2025-11-24,Cash,Global Hotels
+EXP0237,EMP113,HR,Training,5810.61,2025-06-25,Cash,Food Express
+EXP0238,EMP132,Sales,Travel,1838.34,2025-10-28,Debit Card,Food Express
+EXP0239,EMP134,IT,Food,942.71,2025-02-09,Cash,Tech Solutions
+EXP0240,EMP119,Sales,Accommodation,7137.37,2025-08-04,Cash,Learning Hub
+EXP0241,EMP141,Marketing,Travel,2365.37,2025-10-31,Credit Card,Tech Solutions
+EXP0242,EMP127,Sales,Travel,6615.5,2025-12-22,Debit Card,Office World
+EXP0243,EMP131,Sales,Office Supplies,2414.89,2025-09-06,Bank Transfer,Global Hotels
+EXP0244,EMP131,HR,Office Supplies,802.98,2025-02-08,Debit Card,Office World
+EXP0245,EMP139,HR,Training,4783.18,2025-01-12,Debit Card,Learning Hub
+EXP0246,EMP117,Sales,Training,2632.17,2025-08-21,Cash,City Transport
+EXP0247,EMP135,HR,Software,1063.51,2025-12-31,Cash,Cloud Services
+EXP0248,EMP132,IT,Training,1092.14,2025-08-21,Debit Card,City Transport
+EXP0249,EMP129,Marketing,Software,2256.48,2025-02-06,Debit Card,Office World
+EXP0250,EMP117,Marketing,Software,1474.86,2025-08-07,Cash,Cloud Services
+EXP0251,EMP126,Finance,Food,815.65,2025-01-22,Cash,Tech Solutions
+EXP0252,EMP129,HR,Food,1487.19,2025-06-24,Cash,Office World
+EXP0253,EMP129,IT,Office Supplies,1607.67,2025-01-07,Bank Transfer,ABC Travels
+EXP0254,EMP134,IT,Office Supplies,1803.25,2025-01-26,Debit Card,Global Hotels
+EXP0255,EMP115,Sales,Software,3983.27,2025-02-08,Bank Transfer,Food Express
+EXP0256,EMP147,Sales,Office Supplies,785.69,2025-05-10,Debit Card,Office World
+EXP0257,EMP128,IT,Office Supplies,2209.72,2025-08-24,Credit Card,Food Express
+EXP0258,EMP105,Sales,Office Supplies,2421.95,2025-05-27,Bank Transfer,Tech Solutions
+EXP0259,EMP134,Finance,Food,1362.33,2025-01-15,Credit Card,Tech Solutions
+EXP0260,EMP115,Finance,Travel,5432.08,2025-10-01,Cash,Learning Hub
+EXP0261,EMP129,IT,Software,2298.68,2025-05-25,Credit Card,Learning Hub
+EXP0262,EMP103,IT,Training,3651.77,2025-07-18,Credit Card,Learning Hub
+EXP0263,EMP115,Marketing,Accommodation,8382.85,2025-02-15,Credit Card,Cloud Services
+EXP0264,EMP109,Finance,Training,4427.83,2025-08-16,Debit Card,Learning Hub
+EXP0265,EMP102,Finance,Software,1449.46,2025-04-27,Cash,Learning Hub
+EXP0266,EMP118,IT,Accommodation,3047.06,2025-10-04,Debit Card,Learning Hub
+EXP0267,EMP132,HR,Training,5873.5,2025-06-15,Bank Transfer,Food Express
+EXP0268,EMP122,Finance,Travel,6739.57,2025-09-24,Bank Transfer,Learning Hub
+EXP0269,EMP132,Finance,Travel,2065.36,2025-02-15,Bank Transfer,Learning Hub
+EXP0270,EMP133,Marketing,Software,3422.12,2025-08-30,Debit Card,ABC Travels
+EXP0271,EMP126,Finance,Travel,3428.45,2025-03-18,Debit Card,City Transport
+EXP0272,EMP150,HR,Training,3837.7,2025-06-23,Bank Transfer,Global Hotels
+EXP0273,EMP103,HR,Software,1731.97,2025-11-13,Bank Transfer,Cloud Services
+EXP0274,EMP132,Finance,Training,4083.02,2025-08-11,Credit Card,Global Hotels
+EXP0275,EMP147,Marketing,Food,1012.9,2025-03-25,Bank Transfer,City Transport
+EXP0276,EMP122,IT,Software,4871.01,2025-11-10,Debit Card,City Transport
+EXP0277,EMP111,IT,Travel,2402.0,2025-01-14,Debit Card,Cloud Services
+EXP0278,EMP119,Marketing,Software,2116.81,2025-10-28,Bank Transfer,Cloud Services
+EXP0279,EMP132,Marketing,Accommodation,3274.83,2025-04-29,Bank Transfer,Office World
+EXP0280,EMP137,HR,Training,4596.01,2025-05-30,Cash,Learning Hub
+EXP0281,EMP135,Finance,Office Supplies,1730.72,2025-07-21,Credit Card,Food Express
+EXP0282,EMP131,Finance,Software,2219.35,2025-08-01,Debit Card,Food Express
+EXP0283,EMP120,Marketing,Accommodation,4421.54,2025-12-30,Cash,Learning Hub
+EXP0284,EMP136,HR,Travel,4326.98,2025-04-15,Debit Card,Food Express
+EXP0285,EMP139,HR,Software,7113.96,2025-09-19,Debit Card,Tech Solutions
+EXP0286,EMP103,IT,Food,1386.07,2025-09-25,Credit Card,Global Hotels
+EXP0287,EMP136,Sales,Travel,2223.62,2025-01-08,Cash,Cloud Services
+EXP0288,EMP137,HR,Software,3609.94,2025-01-02,Credit Card,Cloud Services
+EXP0289,EMP147,Sales,Travel,2859.77,2025-11-12,Debit Card,Learning Hub
+EXP0290,EMP117,Finance,Software,5150.66,2025-11-22,Bank Transfer,ABC Travels
+EXP0291,EMP105,Finance,Software,2806.93,2025-08-17,Bank Transfer,ABC Travels
+EXP0292,EMP131,Marketing,Software,7788.75,2025-10-30,Bank Transfer,Global Hotels
+EXP0293,EMP110,IT,Training,1848.79,2025-04-03,Cash,Cloud Services
+EXP0294,EMP143,Finance,Travel,3971.89,2025-09-21,Cash,ABC Travels
+EXP0295,EMP143,Finance,Training,1838.1,2025-05-01,Credit Card,City Transport
+EXP0296,EMP144,Sales,Software,4322.42,2025-04-30,Cash,Office World
+EXP0297,EMP102,Marketing,Office Supplies,546.22,2025-11-30,Credit Card,City Transport
+EXP0298,EMP135,Sales,Software,1361.88,2025-01-01,Debit Card,Food Express
+EXP0299,EMP114,Sales,Office Supplies,995.54,2025-06-28,Cash,Global Hotels
+EXP0300,EMP143,Marketing,Accommodation,5359.28,2025-09-08,Debit Card,Global Hotels
+EXP0301,EMP131,Finance,Food,1465.03,2025-02-08,Cash,City Transport
+EXP0302,EMP120,IT,Food,645.45,2025-10-21,Bank Transfer,Learning Hub
+EXP0303,EMP108,Sales,Software,5932.77,2025-08-22,Debit Card,Food Express
+EXP0304,EMP147,Finance,Accommodation,5106.25,2025-01-05,Debit Card,City Transport
+EXP0305,EMP143,HR,Travel,6109.63,2025-08-06,Debit Card,Cloud Services
+EXP0306,EMP147,HR,Food,1003.2,2025-05-16,Cash,ABC Travels
+EXP0307,EMP104,Marketing,Office Supplies,2348.09,2025-10-29,Credit Card,ABC Travels
+EXP0308,EMP141,IT,Training,2969.32,2025-03-10,Debit Card,Cloud Services
+EXP0309,EMP109,Marketing,Food,1499.24,2025-03-04,Credit Card,ABC Travels
+EXP0310,EMP131,Finance,Accommodation,7476.7,2025-03-18,Credit Card,Tech Solutions
+EXP0311,EMP138,Marketing,Food,725.38,2025-05-12,Bank Transfer,Cloud Services
+EXP0312,EMP119,HR,Food,1341.26,2025-10-06,Credit Card,Tech Solutions
+EXP0313,EMP121,Finance,Training,3722.45,2025-03-30,Bank Transfer,ABC Travels
+EXP0314,EMP129,Marketing,Food,715.02,2025-11-12,Credit Card,ABC Travels
+EXP0315,EMP126,Finance,Travel,3944.31,2025-04-12,Bank Transfer,Tech Solutions
+EXP0316,EMP121,HR,Food,802.54,2025-01-03,Debit Card,Learning Hub
+EXP0317,EMP126,HR,Training,5571.18,2025-08-09,Credit Card,Office World
+EXP0318,EMP136,Sales,Food,884.61,2025-10-27,Bank Transfer,Tech Solutions
+EXP0319,EMP123,HR,Software,7688.67,2025-01-21,Bank Transfer,City Transport
+EXP0320,EMP111,Sales,Software,7682.62,2025-10-19,Bank Transfer,City Transport
+EXP0321,EMP134,Marketing,Accommodation,5354.28,2025-10-02,Debit Card,Food Express
+EXP0322,EMP129,Marketing,Accommodation,3994.11,2025-01-27,Bank Transfer,Office World
+EXP0323,EMP102,IT,Food,993.43,2025-05-26,Credit Card,Food Express
+EXP0324,EMP131,Marketing,Food,358.45,2025-09-20,Cash,Global Hotels
+EXP0325,EMP136,Sales,Travel,4620.22,2025-10-25,Cash,Office World
+EXP0326,EMP147,Finance,Software,1303.89,2025-12-28,Bank Transfer,Food Express
+EXP0327,EMP109,Sales,Training,3967.69,2025-01-26,Bank Transfer,Global Hotels
+EXP0328,EMP124,HR,Travel,6119.24,2025-03-13,Cash,ABC Travels
+EXP0329,EMP124,HR,Office Supplies,2017.16,2025-02-19,Bank Transfer,Office World
+EXP0330,EMP110,Marketing,Food,1252.39,2025-06-13,Credit Card,City Transport
+EXP0331,EMP134,HR,Accommodation,3176.1,2025-04-18,Credit Card,City Transport
+EXP0332,EMP115,Sales,Travel,2481.45,2025-10-20,Bank Transfer,Office World
+EXP0333,EMP125,IT,Food,533.95,2025-03-18,Debit Card,Learning Hub
+EXP0334,EMP139,IT,Accommodation,6730.89,2025-02-11,Credit Card,ABC Travels
+EXP0335,EMP126,IT,Software,6730.95,2025-03-09,Debit Card,Global Hotels
+EXP0336,EMP133,Sales,Training,2324.48,2025-08-17,Cash,Tech Solutions
+EXP0337,EMP113,Finance,Travel,2746.61,2025-07-15,Credit Card,Office World
+EXP0338,EMP132,HR,Software,6602.5,2025-01-27,Credit Card,Learning Hub
+EXP0339,EMP103,HR,Office Supplies,1472.51,2025-02-27,Debit Card,Cloud Services
+EXP0340,EMP135,HR,Software,5632.87,2025-07-28,Debit Card,City Transport
+EXP0341,EMP105,Marketing,Training,3811.48,2025-02-05,Credit Card,Food Express
+EXP0342,EMP116,Finance,Food,325.68,2025-05-01,Cash,ABC Travels
+EXP0343,EMP145,Marketing,Software,4324.21,2025-01-30,Bank Transfer,Office World
+EXP0344,EMP144,IT,Training,5962.42,2025-12-26,Credit Card,ABC Travels
+EXP0345,EMP132,Sales,Software,5365.1,2025-08-19,Credit Card,Food Express
+EXP0346,EMP136,Marketing,Training,1796.52,2025-05-22,Credit Card,City Transport
+EXP0347,EMP102,HR,Accommodation,4520.95,2025-12-07,Bank Transfer,ABC Travels
+EXP0348,EMP123,Finance,Travel,3180.38,2025-06-29,Debit Card,Office World
+EXP0349,EMP122,HR,Training,5596.96,2025-05-23,Cash,Food Express
+EXP0350,EMP142,Marketing,Food,851.5,2025-02-18,Debit Card,Global Hotels
+EXP0351,EMP114,Sales,Office Supplies,1783.47,2025-06-07,Debit Card,Tech Solutions
+EXP0352,EMP102,Marketing,Training,1404.6,2025-06-12,Bank Transfer,Global Hotels
+EXP0353,EMP110,IT,Food,1444.52,2025-09-13,Credit Card,Global Hotels
+EXP0354,EMP131,Finance,Accommodation,8034.1,2025-06-13,Debit Card,ABC Travels
+EXP0355,EMP113,Sales,Software,4517.96,2025-01-25,Credit Card,Global Hotels
+EXP0356,EMP104,Sales,Food,857.94,2025-03-20,Credit Card,Office World
+EXP0357,EMP120,Marketing,Software,3182.71,2025-11-30,Debit Card,Food Express
+EXP0358,EMP102,Marketing,Training,1001.66,2025-02-12,Cash,City Transport
+EXP0359,EMP125,IT,Office Supplies,1541.77,2025-09-23,Debit Card,Cloud Services
+EXP0360,EMP115,IT,Food,275.11,2025-02-25,Credit Card,City Transport
+EXP0361,EMP128,IT,Travel,2282.37,2025-11-25,Debit Card,Cloud Services
+EXP0362,EMP139,IT,Software,5326.36,2025-09-17,Cash,ABC Travels
+EXP0363,EMP136,Sales,Software,3143.78,2025-11-04,Cash,Cloud Services
+EXP0364,EMP135,HR,Accommodation,8206.23,2025-03-03,Bank Transfer,Tech Solutions
+EXP0365,EMP122,Marketing,Training,5137.69,2025-08-17,Credit Card,Cloud Services
+EXP0366,EMP138,HR,Training,3406.72,2025-09-03,Bank Transfer,Food Express
+EXP0367,EMP113,HR,Food,446.6,2025-03-06,Credit Card,Global Hotels
+EXP0368,EMP137,HR,Accommodation,8831.12,2025-12-04,Credit Card,Learning Hub
+EXP0369,EMP111,Marketing,Travel,2103.55,2025-07-07,Bank Transfer,Food Express
+EXP0370,EMP134,Marketing,Accommodation,5417.69,2025-07-15,Cash,Learning Hub
+EXP0371,EMP129,Marketing,Food,818.82,2025-08-21,Cash,Food Express
+EXP0372,EMP141,HR,Accommodation,8693.56,2025-04-23,Cash,ABC Travels
+EXP0373,EMP148,Finance,Travel,5284.74,2025-03-01,Credit Card,ABC Travels
+EXP0374,EMP121,HR,Food,249.95,2025-08-20,Cash,Tech Solutions
+EXP0375,EMP117,HR,Office Supplies,1290.27,2025-03-20,Cash,City Transport
+EXP0376,EMP137,Sales,Office Supplies,532.53,2025-03-28,Cash,Food Express
+EXP0377,EMP117,Finance,Office Supplies,1749.88,2025-06-01,Credit Card,Office World
+EXP0378,EMP111,Sales,Food,800.53,2025-08-16,Cash,City Transport
+EXP0379,EMP105,IT,Office Supplies,707.43,2025-09-18,Debit Card,Cloud Services
+EXP0380,EMP117,HR,Training,1413.09,2025-08-08,Bank Transfer,Learning Hub
+EXP0381,EMP136,Finance,Travel,3600.67,2025-02-18,Debit Card,Office World
+EXP0382,EMP150,Finance,Travel,6779.05,2025-04-29,Debit Card,Food Express
+EXP0383,EMP113,Marketing,Software,4320.35,2025-09-15,Credit Card,Learning Hub
+EXP0384,EMP117,Marketing,Food,366.52,2025-09-28,Cash,Global Hotels
+EXP0385,EMP125,Finance,Travel,3567.96,2025-11-30,Debit Card,Cloud Services
+EXP0386,EMP132,Marketing,Training,5641.59,2025-06-21,Bank Transfer,Cloud Services
+EXP0387,EMP130,Finance,Accommodation,4001.35,2025-02-01,Bank Transfer,City Transport
+EXP0388,EMP121,Finance,Software,7432.49,2025-01-18,Credit Card,Cloud Services
+EXP0389,EMP146,Sales,Training,5209.99,2025-12-26,Bank Transfer,City Transport
+EXP0390,EMP143,Marketing,Office Supplies,1004.13,2025-05-30,Credit Card,Cloud Services
+EXP0391,EMP129,Marketing,Accommodation,7095.63,2025-09-15,Credit Card,City Transport
+EXP0392,EMP144,Marketing,Office Supplies,2423.29,2025-03-29,Credit Card,Cloud Services
+EXP0393,EMP103,IT,Accommodation,6132.43,2025-07-03,Bank Transfer,Cloud Services
+EXP0394,EMP147,IT,Accommodation,2656.3,2025-04-18,Credit Card,Learning Hub
+EXP0395,EMP101,Sales,Food,925.46,2025-03-13,Cash,Food Express
+EXP0396,EMP142,IT,Travel,3028.46,2025-08-12,Debit Card,Tech Solutions
+EXP0397,EMP139,Finance,Food,1165.05,2025-10-29,Bank Transfer,Tech Solutions
+EXP0398,EMP142,HR,Travel,3563.93,2025-03-27,Debit Card,Global Hotels
+EXP0399,EMP134,Marketing,Travel,1560.67,2025-05-01,Credit Card,ABC Travels
+EXP0400,EMP106,Marketing,Office Supplies,1963.78,2025-08-11,Cash,Tech Solutions
+EXP0401,EMP120,Sales,Food,678.8,2025-05-12,Debit Card,Learning Hub
+EXP0402,EMP140,IT,Food,708.98,2025-11-06,Bank Transfer,Food Express
+EXP0403,EMP145,HR,Training,1834.43,2025-07-07,Cash,ABC Travels
+EXP0404,EMP137,Marketing,Accommodation,6496.28,2025-08-04,Cash,Global Hotels
+EXP0405,EMP134,Marketing,Software,1369.63,2025-01-24,Debit Card,Global Hotels
+EXP0406,EMP146,IT,Software,6775.35,2025-11-01,Bank Transfer,Cloud Services
+EXP0407,EMP131,Sales,Software,6494.28,2025-04-27,Cash,Learning Hub
+EXP0408,EMP149,IT,Accommodation,3032.17,2025-07-02,Bank Transfer,ABC Travels
+EXP0409,EMP147,HR,Software,1437.8,2025-09-08,Bank Transfer,ABC Travels
+EXP0410,EMP104,Marketing,Training,4212.83,2025-07-17,Cash,Learning Hub
+EXP0411,EMP111,IT,Training,5955.63,2025-05-04,Bank Transfer,ABC Travels
+EXP0412,EMP110,HR,Accommodation,3291.33,2025-03-02,Debit Card,Tech Solutions
+EXP0413,EMP145,Sales,Office Supplies,353.22,2025-09-11,Debit Card,ABC Travels
+EXP0414,EMP146,IT,Accommodation,7478.07,2025-02-04,Debit Card,Tech Solutions
+EXP0415,EMP121,Sales,Accommodation,5232.13,2025-02-18,Debit Card,Learning Hub
+EXP0416,EMP139,Sales,Software,1934.36,2025-09-17,Bank Transfer,Global Hotels
+EXP0417,EMP106,IT,Travel,5791.17,2025-04-10,Credit Card,Cloud Services
+EXP0418,EMP120,Marketing,Software,1947.48,2025-01-31,Cash,ABC Travels
+EXP0419,EMP142,Marketing,Accommodation,2482.71,2025-12-30,Debit Card,Cloud Services
+EXP0420,EMP110,Marketing,Office Supplies,906.35,2025-09-27,Cash,Learning Hub
+EXP0421,EMP109,HR,Travel,5771.91,2025-02-13,Credit Card,Office World
+EXP0422,EMP121,IT,Software,5337.9,2025-12-29,Cash,Global Hotels
+EXP0423,EMP115,Finance,Office Supplies,1064.16,2025-05-07,Debit Card,Learning Hub
+EXP0424,EMP121,IT,Software,1895.92,2025-07-18,Debit Card,Global Hotels
+EXP0425,EMP121,Marketing,Training,4654.1,2025-11-10,Debit Card,Food Express
+EXP0426,EMP119,IT,Food,448.55,2025-11-01,Bank Transfer,ABC Travels
+EXP0427,EMP150,Sales,Software,3446.54,2025-06-10,Credit Card,Office World
+EXP0428,EMP117,HR,Travel,6178.39,2025-10-16,Cash,Food Express
+EXP0429,EMP141,Sales,Food,725.17,2025-02-12,Bank Transfer,Cloud Services
+EXP0430,EMP134,Finance,Travel,4870.95,2025-07-17,Credit Card,Global Hotels
+EXP0431,EMP102,Sales,Accommodation,8619.89,2025-04-22,Debit Card,Global Hotels
+EXP0432,EMP124,IT,Accommodation,7244.99,2025-03-17,Bank Transfer,Learning Hub
+EXP0433,EMP149,Marketing,Office Supplies,1310.33,2025-07-11,Cash,Learning Hub
+EXP0434,EMP146,Sales,Software,4813.93,2025-03-09,Cash,Cloud Services
+EXP0435,EMP127,Sales,Training,1808.1,2025-09-27,Credit Card,ABC Travels
+EXP0436,EMP125,HR,Software,6404.09,2025-03-07,Cash,Cloud Services
+EXP0437,EMP106,IT,Software,4770.91,2025-08-15,Bank Transfer,Office World
+EXP0438,EMP111,Finance,Office Supplies,1136.92,2025-07-16,Cash,Office World
+EXP0439,EMP137,HR,Software,6549.98,2025-06-13,Credit Card,Learning Hub
+EXP0440,EMP120,Finance,Training,3665.14,2025-02-11,Debit Card,Office World
+EXP0441,EMP150,HR,Office Supplies,1098.82,2025-10-10,Bank Transfer,Learning Hub
+EXP0442,EMP137,Finance,Software,2414.11,2025-01-08,Cash,Office World
+EXP0443,EMP119,IT,Accommodation,5082.26,2025-09-03,Cash,ABC Travels
+EXP0444,EMP101,Marketing,Office Supplies,1411.45,2025-01-16,Bank Transfer,Food Express
+EXP0445,EMP104,Sales,Accommodation,7076.3,2025-06-11,Cash,Cloud Services
+EXP0446,EMP105,HR,Office Supplies,656.91,2025-10-10,Credit Card,Tech Solutions
+EXP0447,EMP105,Finance,Software,6035.48,2025-06-03,Bank Transfer,Food Express
+EXP0448,EMP119,Marketing,Accommodation,4075.43,2025-05-14,Cash,Office World
+EXP0449,EMP144,Finance,Office Supplies,2282.85,2025-12-30,Credit Card,Food Express
+EXP0450,EMP126,HR,Training,5141.25,2025-10-13,Cash,Food Express
+EXP0451,EMP134,Marketing,Food,330.83,2025-06-12,Credit Card,Tech Solutions
+EXP0452,EMP148,HR,Food,997.91,2025-10-06,Cash,Cloud Services
+EXP0453,EMP115,Finance,Accommodation,7643.37,2025-12-16,Bank Transfer,Tech Solutions
+EXP0454,EMP135,Finance,Software,6175.06,2025-03-07,Cash,Learning Hub
+EXP0455,EMP101,Marketing,Training,5278.69,2025-05-04,Cash,City Transport
+EXP0456,EMP138,IT,Software,7064.71,2025-10-30,Bank Transfer,City Transport
+EXP0457,EMP114,Sales,Office Supplies,1978.94,2025-10-29,Cash,Office World
+EXP0458,EMP115,Finance,Travel,5836.46,2025-11-29,Debit Card,Tech Solutions
+EXP0459,EMP134,Finance,Training,4353.66,2025-04-01,Cash,Cloud Services
+EXP0460,EMP119,Marketing,Accommodation,5826.54,2025-02-04,Debit Card,City Transport
+EXP0461,EMP114,IT,Software,1126.0,2025-12-10,Debit Card,Cloud Services
+EXP0462,EMP109,Finance,Office Supplies,2440.11,2025-10-02,Cash,Office World
+EXP0463,EMP119,Sales,Training,4633.35,2025-09-08,Bank Transfer,Office World
+EXP0464,EMP109,Sales,Accommodation,2478.39,2025-10-13,Cash,ABC Travels
+EXP0465,EMP135,Marketing,Travel,6034.94,2025-11-05,Credit Card,Tech Solutions
+EXP0466,EMP102,Finance,Software,1451.44,2025-09-21,Credit Card,Food Express
+EXP0467,EMP112,Finance,Accommodation,7867.07,2025-06-07,Bank Transfer,Tech Solutions
+EXP0468,EMP148,HR,Accommodation,5650.12,2025-11-21,Cash,Food Express
+EXP0469,EMP109,IT,Software,1804.53,2025-07-20,Cash,Tech Solutions
+EXP0470,EMP108,Finance,Food,1342.67,2025-03-06,Credit Card,City Transport
+EXP0471,EMP115,Marketing,Training,3172.98,2025-02-16,Credit Card,Tech Solutions
+EXP0472,EMP121,HR,Software,4103.66,2025-08-20,Bank Transfer,Cloud Services
+EXP0473,EMP107,Marketing,Travel,5364.49,2025-05-12,Cash,Office World
+EXP0474,EMP122,Marketing,Training,4933.75,2025-03-08,Cash,Global Hotels
+EXP0475,EMP108,HR,Office Supplies,1935.91,2025-09-14,Bank Transfer,Cloud Services
+EXP0476,EMP106,Finance,Food,670.41,2025-09-25,Debit Card,Tech Solutions
+EXP0477,EMP145,IT,Software,4287.49,2025-04-03,Credit Card,Tech Solutions
+EXP0478,EMP113,IT,Accommodation,5320.02,2025-06-26,Credit Card,Cloud Services
+EXP0479,EMP143,Finance,Training,1247.48,2025-05-16,Cash,Office World
+EXP0480,EMP149,Finance,Food,801.71,2025-09-02,Cash,Cloud Services
+EXP0481,EMP109,HR,Office Supplies,397.65,2025-08-21,Cash,Food Express
+EXP0482,EMP139,Finance,Travel,6000.14,2025-10-04,Bank Transfer,ABC Travels
+EXP0483,EMP146,Sales,Office Supplies,398.68,2025-11-29,Credit Card,ABC Travels
+EXP0484,EMP112,Marketing,Office Supplies,1204.25,2025-04-19,Credit Card,Learning Hub
+EXP0485,EMP105,Finance,Accommodation,7029.0,2025-09-07,Cash,ABC Travels
+EXP0486,EMP149,IT,Training,1255.68,2025-08-03,Bank Transfer,Office World
+EXP0487,EMP136,HR,Food,348.83,2025-06-10,Debit Card,Food Express
+EXP0488,EMP133,IT,Software,4847.09,2025-04-23,Cash,Global Hotels
+EXP0489,EMP141,IT,Travel,6679.49,2025-10-12,Debit Card,Global Hotels
+EXP0490,EMP109,IT,Office Supplies,1617.12,2025-07-29,Credit Card,City Transport
+EXP0491,EMP102,Marketing,Office Supplies,1892.74,2025-06-04,Credit Card,Cloud Services
+EXP0492,EMP141,IT,Training,1710.69,2025-03-22,Debit Card,Office World
+EXP0493,EMP115,IT,Office Supplies,1369.2,2025-10-28,Debit Card,Food Express
+EXP0494,EMP125,Sales,Training,3793.21,2025-08-11,Bank Transfer,Learning Hub
+EXP0495,EMP118,Finance,Training,5228.02,2025-04-17,Cash,Tech Solutions
+EXP0496,EMP130,Sales,Travel,3184.72,2025-05-02,Cash,Office World
+EXP0497,EMP115,HR,Office Supplies,1290.27,2025-06-21,Credit Card,City Transport
+EXP0498,EMP136,IT,Food,681.07,2025-04-28,Cash,ABC Travels
+EXP0499,EMP137,HR,Software,4013.71,2025-07-15,Cash,ABC Travels
+EXP0500,EMP118,Finance,Software,3378.38,2025-07-21,Cash,Tech Solutions
+EXP0501,EMP149,IT,Office Supplies,1201.18,2025-11-01,Debit Card,Learning Hub
+EXP0502,EMP138,Sales,Food,1294.24,2025-07-23,Credit Card,City Transport
+EXP0503,EMP130,Marketing,Travel,2273.04,2025-11-21,Cash,Learning Hub
+EXP0504,EMP126,IT,Office Supplies,2420.84,2025-09-17,Bank Transfer,Cloud Services
+EXP0505,EMP106,IT,Office Supplies,652.05,2025-11-02,Bank Transfer,Food Express
+EXP0506,EMP137,Sales,Training,1650.24,2025-05-02,Debit Card,Office World
+EXP0507,EMP118,Sales,Office Supplies,2254.49,2025-07-15,Cash,ABC Travels
+EXP0508,EMP117,Finance,Accommodation,4018.84,2025-05-06,Credit Card,Learning Hub
+EXP0509,EMP113,Marketing,Accommodation,3079.02,2025-11-01,Debit Card,Food Express
+EXP0510,EMP134,Sales,Office Supplies,2144.81,2025-02-11,Cash,Food Express
+EXP0511,EMP144,IT,Food,274.94,2025-01-21,Bank Transfer,City Transport
+EXP0512,EMP135,Marketing,Office Supplies,663.53,2025-10-07,Credit Card,City Transport
+EXP0513,EMP135,HR,Office Supplies,756.08,2025-09-30,Cash,Global Hotels
+EXP0514,EMP108,Finance,Food,799.88,2025-12-07,Cash,Food Express
+EXP0515,EMP127,Finance,Accommodation,5801.17,2025-05-27,Credit Card,Global Hotels
+EXP0516,EMP121,IT,Training,3666.93,2025-05-20,Debit Card,Tech Solutions
+EXP0517,EMP141,Marketing,Accommodation,7559.47,2025-01-20,Debit Card,Global Hotels
+EXP0518,EMP126,Marketing,Training,1743.98,2025-05-27,Cash,Office World
+EXP0519,EMP136,Marketing,Software,7044.83,2025-07-02,Debit Card,Tech Solutions
+EXP0520,EMP150,Finance,Training,4808.99,2025-07-22,Credit Card,Tech Solutions
+EXP0521,EMP147,Sales,Training,3279.9,2025-04-02,Bank Transfer,City Transport
+EXP0522,EMP108,Marketing,Accommodation,5335.38,2025-11-25,Cash,Food Express
+EXP0523,EMP108,Finance,Travel,6158.33,2025-12-18,Bank Transfer,City Transport
+EXP0524,EMP131,IT,Office Supplies,367.74,2025-07-08,Bank Transfer,Learning Hub
+EXP0525,EMP103,HR,Training,4438.61,2025-06-20,Debit Card,Global Hotels
+EXP0526,EMP102,HR,Training,4222.35,2025-07-23,Credit Card,Learning Hub
+EXP0527,EMP135,IT,Training,5787.24,2025-10-30,Bank Transfer,Global Hotels
+EXP0528,EMP107,HR,Travel,1993.97,2025-01-30,Bank Transfer,ABC Travels
+EXP0529,EMP113,Marketing,Travel,4980.98,2025-02-06,Cash,Learning Hub
+EXP0530,EMP101,Sales,Software,5609.78,2025-05-07,Cash,Tech Solutions
+EXP0531,EMP130,HR,Travel,5477.32,2025-09-17,Bank Transfer,Cloud Services
+EXP0532,EMP113,IT,Office Supplies,1508.09,2025-07-07,Credit Card,Learning Hub
+EXP0533,EMP138,HR,Accommodation,8685.81,2025-05-03,Cash,Global Hotels
+EXP0534,EMP138,Finance,Food,1232.87,2025-05-24,Cash,Global Hotels
+EXP0535,EMP131,HR,Food,723.74,2025-04-21,Cash,Global Hotels
+EXP0536,EMP127,IT,Training,1761.65,2025-02-24,Debit Card,Food Express
+EXP0537,EMP113,Sales,Travel,4519.39,2025-06-07,Credit Card,Tech Solutions
+EXP0538,EMP131,Sales,Office Supplies,1725.2,2025-08-02,Credit Card,City Transport
+EXP0539,EMP120,HR,Food,1267.86,2025-02-23,Cash,Global Hotels
+EXP0540,EMP124,HR,Software,2642.57,2025-02-22,Bank Transfer,Cloud Services
+EXP0541,EMP118,Marketing,Accommodation,8417.54,2025-09-21,Cash,City Transport
+EXP0542,EMP111,HR,Food,1270.91,2025-05-07,Credit Card,Office World
+EXP0543,EMP126,Finance,Travel,1500.74,2025-12-15,Debit Card,Learning Hub
+EXP0544,EMP144,Finance,Food,807.06,2025-11-21,Credit Card,Learning Hub
+EXP0545,EMP143,Sales,Software,1713.25,2025-03-06,Bank Transfer,ABC Travels
+EXP0546,EMP118,IT,Food,607.35,2025-04-10,Bank Transfer,Tech Solutions
+EXP0547,EMP112,Sales,Office Supplies,2301.87,2025-04-22,Bank Transfer,Food Express
+EXP0548,EMP127,Finance,Food,254.98,2025-11-12,Credit Card,Learning Hub
+EXP0549,EMP137,HR,Accommodation,6991.32,2025-01-13,Credit Card,Learning Hub
+EXP0550,EMP130,Marketing,Office Supplies,2391.7,2025-10-08,Credit Card,Food Express
+EXP0551,EMP142,Marketing,Office Supplies,1695.55,2025-10-20,Credit Card,Food Express
+EXP0552,EMP114,Marketing,Travel,4117.82,2025-05-26,Bank Transfer,Office World
+EXP0553,EMP118,Finance,Software,7012.7,2025-01-13,Credit Card,Food Express
+EXP0554,EMP138,Marketing,Food,475.59,2025-11-25,Bank Transfer,Cloud Services
+EXP0555,EMP145,Finance,Software,5744.69,2025-06-22,Debit Card,ABC Travels
+EXP0556,EMP144,Marketing,Food,1158.23,2025-11-22,Cash,Food Express
+EXP0557,EMP121,Marketing,Training,1996.08,2025-12-22,Cash,Tech Solutions
+EXP0558,EMP110,IT,Accommodation,2406.64,2025-04-28,Credit Card,Office World
+EXP0559,EMP138,Sales,Food,219.1,2025-06-14,Cash,Global Hotels
+EXP0560,EMP125,Finance,Software,7641.92,2025-06-12,Bank Transfer,City Transport
+EXP0561,EMP129,Finance,Software,5165.92,2025-01-24,Bank Transfer,ABC Travels
+EXP0562,EMP101,Marketing,Food,874.74,2025-08-18,Cash,City Transport
+EXP0563,EMP112,Marketing,Travel,4367.13,2025-07-05,Bank Transfer,Cloud Services
+EXP0564,EMP141,Sales,Food,1201.21,2025-08-10,Debit Card,Food Express
+EXP0565,EMP112,Sales,Travel,5752.28,2025-01-07,Cash,Learning Hub
+EXP0566,EMP136,IT,Accommodation,6525.21,2025-05-15,Bank Transfer,Tech Solutions
+EXP0567,EMP108,Finance,Office Supplies,2125.48,2025-08-05,Credit Card,Cloud Services
+EXP0568,EMP134,IT,Software,7296.19,2025-06-06,Debit Card,Office World
+EXP0569,EMP104,Sales,Software,4316.67,2025-08-06,Debit Card,Learning Hub
+EXP0570,EMP115,Finance,Accommodation,5715.16,2025-11-27,Cash,Office World
+EXP0571,EMP142,Finance,Travel,2739.6,2025-07-18,Credit Card,Global Hotels
+EXP0572,EMP111,Finance,Food,609.69,2025-12-05,Credit Card,Food Express
+EXP0573,EMP149,Marketing,Software,5499.73,2025-11-17,Bank Transfer,Office World
+EXP0574,EMP150,Marketing,Travel,6395.78,2025-06-23,Debit Card,ABC Travels
+EXP0575,EMP111,HR,Accommodation,5481.19,2025-12-27,Cash,Cloud Services
+EXP0576,EMP115,Finance,Food,592.49,2025-08-14,Cash,Food Express
+EXP0577,EMP122,HR,Accommodation,8736.17,2025-10-21,Debit Card,Global Hotels
+EXP0578,EMP103,HR,Training,3164.08,2025-08-10,Debit Card,Cloud Services
+EXP0579,EMP133,Sales,Software,7283.72,2025-04-18,Credit Card,Learning Hub
+EXP0580,EMP128,IT,Accommodation,5690.63,2025-12-17,Cash,Cloud Services
+EXP0581,EMP126,Finance,Software,7660.01,2025-02-17,Debit Card,ABC Travels
+EXP0582,EMP119,Marketing,Office Supplies,1309.72,2025-10-01,Bank Transfer,City Transport
+EXP0583,EMP129,HR,Food,218.45,2025-04-18,Bank Transfer,Food Express
+EXP0584,EMP116,HR,Travel,6780.75,2025-09-02,Debit Card,Global Hotels
+EXP0585,EMP136,Sales,Food,819.97,2025-12-18,Bank Transfer,Cloud Services
+EXP0586,EMP120,Finance,Office Supplies,1766.52,2025-07-06,Cash,Global Hotels
+EXP0587,EMP136,Sales,Training,4015.32,2025-03-15,Credit Card,Office World
+EXP0588,EMP142,Marketing,Food,1246.18,2025-08-04,Cash,Learning Hub
+EXP0589,EMP129,HR,Office Supplies,858.41,2025-06-04,Bank Transfer,Office World
+EXP0590,EMP127,Sales,Accommodation,2829.52,2025-09-22,Debit Card,Tech Solutions
+EXP0591,EMP103,Finance,Travel,5685.54,2025-08-29,Cash,Office World
+EXP0592,EMP139,Sales,Training,5592.13,2025-04-23,Bank Transfer,Global Hotels
+EXP0593,EMP120,Finance,Food,1490.17,2025-12-15,Credit Card,Tech Solutions
+EXP0594,EMP126,HR,Software,6930.9,2025-09-14,Credit Card,Office World
+EXP0595,EMP141,Marketing,Food,1291.76,2025-02-10,Credit Card,Global Hotels
+EXP0596,EMP141,Finance,Travel,2314.98,2025-08-25,Credit Card,Office World
+EXP0597,EMP135,Sales,Office Supplies,1539.31,2025-05-29,Cash,Global Hotels
+EXP0598,EMP147,IT,Office Supplies,616.39,2025-07-18,Bank Transfer,City Transport
+EXP0599,EMP123,HR,Accommodation,4936.14,2025-05-12,Debit Card,Office World
+EXP0600,EMP148,HR,Software,2431.23,2025-02-10,Bank Transfer,Learning Hub
+EXP0601,EMP115,Marketing,Training,1355.79,2025-11-20,Bank Transfer,Food Express
+EXP0602,EMP140,Finance,Office Supplies,509.12,2025-10-10,Bank Transfer,Food Express
+EXP0603,EMP142,Marketing,Food,1206.08,2025-01-24,Cash,Tech Solutions
+EXP0604,EMP123,HR,Travel,4048.12,2025-06-30,Credit Card,Food Express
+EXP0605,EMP106,Sales,Training,3660.11,2025-09-06,Credit Card,ABC Travels
+EXP0606,EMP103,HR,Training,1050.45,2025-07-31,Cash,Tech Solutions
+EXP0607,EMP141,Marketing,Software,3170.59,2025-08-27,Credit Card,Food Express
+EXP0608,EMP125,HR,Food,1364.85,2025-12-23,Cash,Tech Solutions
+EXP0609,EMP136,IT,Training,1626.78,2025-02-16,Bank Transfer,Learning Hub
+EXP0610,EMP116,Sales,Training,3953.19,2025-08-29,Bank Transfer,City Transport
+EXP0611,EMP109,HR,Food,226.87,2025-06-11,Credit Card,Tech Solutions
+EXP0612,EMP148,HR,Training,2326.63,2025-11-20,Cash,City Transport
+EXP0613,EMP149,Finance,Office Supplies,1969.81,2025-04-12,Credit Card,City Transport
+EXP0614,EMP102,Finance,Office Supplies,1112.42,2025-03-29,Cash,City Transport
+EXP0615,EMP117,IT,Training,5604.97,2025-06-16,Debit Card,Tech Solutions
+EXP0616,EMP106,Finance,Accommodation,2995.19,2025-03-11,Cash,Office World
+EXP0617,EMP112,Sales,Office Supplies,561.52,2025-02-18,Cash,City Transport
+EXP0618,EMP136,Sales,Travel,3215.91,2025-09-28,Cash,Learning Hub
+EXP0619,EMP135,Marketing,Food,220.88,2025-02-12,Cash,Cloud Services
+EXP0620,EMP104,HR,Travel,6836.41,2025-07-08,Cash,Tech Solutions
+EXP0621,EMP119,Sales,Office Supplies,1853.63,2025-06-17,Credit Card,ABC Travels
+EXP0622,EMP148,Sales,Office Supplies,1360.98,2025-01-13,Cash,Cloud Services
+EXP0623,EMP110,IT,Office Supplies,1172.42,2025-02-12,Credit Card,Office World
+EXP0624,EMP137,Marketing,Software,3030.32,2025-01-22,Cash,City Transport
+EXP0625,EMP118,IT,Food,1282.68,2025-03-24,Cash,Learning Hub
+EXP0626,EMP111,Marketing,Travel,4518.72,2025-05-06,Credit Card,Tech Solutions
+EXP0627,EMP128,Marketing,Travel,6642.47,2025-01-05,Debit Card,Food Express
+EXP0628,EMP122,IT,Travel,3071.67,2025-01-19,Credit Card,Tech Solutions
+EXP0629,EMP113,HR,Training,2869.61,2025-10-16,Cash,Cloud Services
+EXP0630,EMP124,IT,Training,4005.51,2025-01-29,Debit Card,City Transport
+EXP0631,EMP129,HR,Travel,6892.03,2025-08-06,Debit Card,ABC Travels
+EXP0632,EMP141,HR,Training,3738.92,2025-11-14,Credit Card,Global Hotels
+EXP0633,EMP149,HR,Software,3959.1,2025-08-07,Cash,City Transport
+EXP0634,EMP135,IT,Office Supplies,751.73,2025-12-11,Cash,Global Hotels
+EXP0635,EMP143,Marketing,Food,1096.71,2025-06-03,Bank Transfer,City Transport
+EXP0636,EMP127,IT,Accommodation,8478.66,2025-01-20,Credit Card,Cloud Services
+EXP0637,EMP130,Marketing,Software,4206.16,2025-11-18,Credit Card,Global Hotels
+EXP0638,EMP109,IT,Training,2254.47,2025-09-23,Credit Card,Learning Hub
+EXP0639,EMP129,Finance,Office Supplies,896.41,2025-09-15,Cash,ABC Travels
+EXP0640,EMP115,IT,Food,783.81,2025-11-05,Bank Transfer,Cloud Services
+EXP0641,EMP136,IT,Accommodation,3418.43,2025-10-05,Debit Card,Cloud Services
+EXP0642,EMP104,Finance,Accommodation,4857.06,2025-10-28,Bank Transfer,ABC Travels
+EXP0643,EMP136,Finance,Software,7577.56,2025-05-18,Credit Card,Food Express
+EXP0644,EMP110,HR,Training,5885.03,2025-05-25,Debit Card,Tech Solutions
+EXP0645,EMP125,HR,Office Supplies,2258.13,2025-12-07,Cash,City Transport
+EXP0646,EMP128,Marketing,Accommodation,5589.08,2025-09-05,Credit Card,Tech Solutions
+EXP0647,EMP145,Finance,Travel,2831.12,2025-07-31,Cash,City Transport
+EXP0648,EMP133,Finance,Accommodation,8142.29,2025-02-16,Credit Card,Cloud Services
+EXP0649,EMP111,Sales,Office Supplies,844.63,2025-10-23,Credit Card,Global Hotels
+EXP0650,EMP116,IT,Training,4033.66,2025-11-27,Debit Card,Cloud Services
+EXP0651,EMP136,HR,Food,1246.62,2025-10-02,Bank Transfer,City Transport
+EXP0652,EMP101,Sales,Training,2987.24,2025-12-24,Bank Transfer,Learning Hub
+EXP0653,EMP109,IT,Training,2457.48,2025-07-28,Credit Card,Cloud Services
+EXP0654,EMP133,IT,Travel,3334.84,2025-10-11,Debit Card,Food Express
+EXP0655,EMP102,Finance,Food,1223.6,2025-12-07,Credit Card,Global Hotels
+EXP0656,EMP136,IT,Office Supplies,1852.01,2025-06-17,Debit Card,Office World
+EXP0657,EMP134,IT,Accommodation,7487.91,2025-01-18,Bank Transfer,Cloud Services
+EXP0658,EMP122,IT,Food,228.49,2025-09-17,Cash,City Transport
+EXP0659,EMP128,Sales,Office Supplies,1380.41,2025-11-20,Bank Transfer,ABC Travels
+EXP0660,EMP101,IT,Training,1057.46,2025-05-01,Debit Card,Cloud Services
+EXP0661,EMP128,Sales,Accommodation,2493.44,2025-07-21,Credit Card,Global Hotels
+EXP0662,EMP135,IT,Accommodation,7785.42,2025-03-24,Cash,Food Express
+EXP0663,EMP142,Finance,Software,7471.93,2025-10-10,Bank Transfer,ABC Travels
+EXP0664,EMP124,Sales,Accommodation,4476.52,2025-02-21,Credit Card,Food Express
+EXP0665,EMP142,Sales,Software,5425.52,2025-06-26,Debit Card,City Transport
+EXP0666,EMP106,Finance,Travel,2064.12,2025-05-17,Bank Transfer,Food Express
+EXP0667,EMP142,IT,Training,3608.0,2025-09-18,Bank Transfer,ABC Travels
+EXP0668,EMP109,Marketing,Office Supplies,1211.94,2025-08-02,Credit Card,City Transport
+EXP0669,EMP123,Sales,Accommodation,7053.5,2025-04-22,Credit Card,ABC Travels
+EXP0670,EMP118,Sales,Food,891.46,2025-04-18,Debit Card,Cloud Services
+EXP0671,EMP132,Finance,Training,1095.64,2025-08-23,Debit Card,Tech Solutions
+EXP0672,EMP136,HR,Food,1025.03,2025-04-25,Debit Card,ABC Travels
+EXP0673,EMP147,HR,Software,3177.02,2025-06-16,Debit Card,City Transport
+EXP0674,EMP108,IT,Training,2097.77,2025-06-01,Bank Transfer,Food Express
+EXP0675,EMP103,Finance,Travel,3859.19,2025-01-19,Debit Card,Learning Hub
+EXP0676,EMP113,HR,Travel,2620.17,2025-12-20,Debit Card,ABC Travels
+EXP0677,EMP148,HR,Accommodation,5727.53,2025-07-24,Credit Card,Food Express
+EXP0678,EMP126,Sales,Accommodation,5073.67,2025-12-10,Credit Card,City Transport
+EXP0679,EMP149,Sales,Accommodation,7353.61,2025-01-07,Bank Transfer,Food Express
+EXP0680,EMP125,Finance,Travel,4862.35,2025-06-20,Bank Transfer,Food Express
+EXP0681,EMP116,IT,Accommodation,6398.99,2025-10-09,Credit Card,Cloud Services
+EXP0682,EMP129,Marketing,Travel,4446.11,2025-11-17,Credit Card,Cloud Services
+EXP0683,EMP141,Finance,Office Supplies,580.25,2025-04-28,Bank Transfer,Cloud Services
+EXP0684,EMP103,Sales,Office Supplies,2105.32,2025-09-28,Bank Transfer,Food Express
+EXP0685,EMP102,Finance,Food,1372.31,2025-02-17,Cash,Learning Hub
+EXP0686,EMP128,Marketing,Travel,5586.95,2025-12-01,Cash,ABC Travels
+EXP0687,EMP145,Finance,Accommodation,5153.35,2025-11-29,Debit Card,City Transport
+EXP0688,EMP103,Marketing,Accommodation,5913.41,2025-08-09,Bank Transfer,Tech Solutions
+EXP0689,EMP111,IT,Training,2872.4,2025-03-01,Debit Card,City Transport
+EXP0690,EMP149,IT,Office Supplies,1134.3,2025-03-03,Credit Card,Office World
+EXP0691,EMP148,Marketing,Food,1204.65,2025-07-26,Credit Card,Office World
+EXP0692,EMP139,Finance,Food,912.44,2025-11-14,Cash,Global Hotels
+EXP0693,EMP144,Marketing,Travel,1580.46,2025-07-30,Credit Card,Tech Solutions
+EXP0694,EMP131,Marketing,Travel,3408.29,2025-08-03,Bank Transfer,Food Express
+EXP0695,EMP122,HR,Software,6968.09,2025-09-02,Debit Card,Global Hotels
+EXP0696,EMP116,Marketing,Food,739.46,2025-09-24,Cash,Learning Hub
+EXP0697,EMP130,IT,Travel,2828.25,2025-04-04,Cash,Global Hotels
+EXP0698,EMP126,Marketing,Office Supplies,713.42,2025-03-22,Debit Card,Global Hotels
+EXP0699,EMP132,Marketing,Office Supplies,2108.03,2025-05-26,Credit Card,Learning Hub
+EXP0700,EMP101,Finance,Office Supplies,2365.95,2025-08-10,Debit Card,Food Express
+EXP0701,EMP127,Marketing,Accommodation,6862.49,2025-09-26,Cash,City Transport
+EXP0702,EMP106,HR,Accommodation,7704.58,2025-10-06,Cash,Office World
+EXP0703,EMP128,HR,Accommodation,7234.87,2025-06-10,Cash,ABC Travels
+EXP0704,EMP135,Sales,Training,1168.38,2025-04-06,Bank Transfer,Food Express
+EXP0705,EMP146,Marketing,Training,4334.24,2025-08-05,Bank Transfer,Learning Hub
+EXP0706,EMP108,Sales,Accommodation,7777.91,2025-09-15,Bank Transfer,ABC Travels
+EXP0707,EMP112,Sales,Training,1474.59,2025-10-03,Bank Transfer,Food Express
+EXP0708,EMP127,IT,Accommodation,8006.16,2025-12-31,Bank Transfer,City Transport
+EXP0709,EMP121,Sales,Accommodation,2910.56,2025-07-06,Bank Transfer,Cloud Services
+EXP0710,EMP135,IT,Training,2563.89,2025-10-31,Debit Card,Cloud Services
+EXP0711,EMP115,HR,Travel,5692.66,2025-07-02,Cash,Tech Solutions
+EXP0712,EMP121,HR,Office Supplies,2364.51,2025-07-16,Credit Card,Global Hotels
+EXP0713,EMP119,IT,Travel,1881.31,2025-01-29,Bank Transfer,Global Hotels
+EXP0714,EMP148,HR,Accommodation,4724.61,2025-10-03,Bank Transfer,City Transport
+EXP0715,EMP105,IT,Training,2857.43,2025-01-28,Bank Transfer,Tech Solutions
+EXP0716,EMP104,Sales,Office Supplies,1274.73,2025-02-19,Debit Card,ABC Travels
+EXP0717,EMP111,HR,Software,7579.52,2025-01-14,Cash,Tech Solutions
+EXP0718,EMP118,Sales,Food,671.16,2025-07-01,Cash,City Transport
+EXP0719,EMP141,IT,Accommodation,6421.5,2025-12-09,Bank Transfer,City Transport
+EXP0720,EMP101,Finance,Travel,1883.9,2025-12-05,Cash,City Transport
+EXP0721,EMP150,Marketing,Travel,2486.46,2025-08-02,Bank Transfer,ABC Travels
+EXP0722,EMP133,Sales,Training,1848.64,2025-04-22,Bank Transfer,Tech Solutions
+EXP0723,EMP130,IT,Software,4184.11,2025-01-20,Debit Card,Tech Solutions
+EXP0724,EMP137,Marketing,Food,722.45,2025-11-18,Credit Card,Cloud Services
+EXP0725,EMP108,HR,Software,1549.9,2025-03-16,Cash,Learning Hub
+EXP0726,EMP140,IT,Training,4513.2,2025-01-29,Debit Card,Cloud Services
+EXP0727,EMP146,Finance,Software,7166.81,2025-05-24,Debit Card,Tech Solutions
+EXP0728,EMP123,Sales,Office Supplies,2249.41,2025-06-04,Cash,Learning Hub
+EXP0729,EMP142,Finance,Office Supplies,741.22,2025-10-20,Credit Card,City Transport
+EXP0730,EMP139,Finance,Accommodation,2436.76,2025-10-03,Credit Card,City Transport
+EXP0731,EMP130,Marketing,Travel,5181.2,2025-10-25,Credit Card,Tech Solutions
+EXP0732,EMP134,IT,Food,292.35,2025-12-30,Bank Transfer,Office World
+EXP0733,EMP115,HR,Training,5711.92,2025-02-21,Credit Card,Office World
+EXP0734,EMP108,IT,Accommodation,7315.05,2025-10-23,Cash,Office World
+EXP0735,EMP130,IT,Training,4152.9,2025-04-03,Cash,Office World
+EXP0736,EMP113,HR,Software,3487.24,2025-05-05,Cash,Office World
+EXP0737,EMP118,Sales,Food,1251.73,2025-08-11,Cash,Cloud Services
+EXP0738,EMP105,HR,Office Supplies,1539.5,2025-04-06,Cash,Cloud Services
+EXP0739,EMP123,HR,Training,2558.45,2025-04-22,Credit Card,ABC Travels
+EXP0740,EMP134,HR,Travel,5433.53,2025-06-30,Credit Card,Cloud Services
+EXP0741,EMP115,Sales,Travel,4658.58,2025-04-16,Bank Transfer,City Transport
+EXP0742,EMP120,Sales,Travel,5708.38,2025-02-09,Debit Card,Tech Solutions
+EXP0743,EMP112,Sales,Food,812.13,2025-07-20,Cash,Cloud Services
+EXP0744,EMP148,IT,Software,3529.83,2025-08-15,Debit Card,Learning Hub
+EXP0745,EMP140,Marketing,Office Supplies,1977.38,2025-11-14,Credit Card,Food Express
+EXP0746,EMP126,Finance,Travel,2465.2,2025-03-18,Debit Card,City Transport
+EXP0747,EMP113,Marketing,Software,4868.64,2025-10-08,Cash,Tech Solutions
+EXP0748,EMP145,Marketing,Accommodation,3950.5,2025-05-11,Debit Card,Global Hotels
+EXP0749,EMP106,Sales,Training,5849.63,2025-03-13,Debit Card,Learning Hub
+EXP0750,EMP112,IT,Food,677.61,2025-07-06,Credit Card,Tech Solutions
+EXP0751,EMP141,Sales,Accommodation,3225.86,2025-12-11,Bank Transfer,Cloud Services
+EXP0752,EMP145,Sales,Food,878.54,2025-01-13,Bank Transfer,Global Hotels
+EXP0753,EMP117,HR,Travel,4950.31,2025-07-24,Debit Card,Office World
+EXP0754,EMP124,Finance,Travel,3431.71,2025-09-30,Debit Card,Learning Hub
+EXP0755,EMP108,HR,Office Supplies,388.13,2025-06-23,Cash,Tech Solutions
+EXP0756,EMP149,HR,Office Supplies,1597.89,2025-08-17,Cash,ABC Travels
+EXP0757,EMP139,Sales,Food,1188.55,2025-10-13,Credit Card,Learning Hub
+EXP0758,EMP113,HR,Accommodation,6956.85,2025-12-04,Bank Transfer,Food Express
+EXP0759,EMP115,Sales,Travel,4308.19,2025-04-26,Credit Card,Office World
+EXP0760,EMP130,HR,Software,4508.93,2025-06-29,Credit Card,ABC Travels
+EXP0761,EMP144,Marketing,Travel,6115.49,2025-01-01,Bank Transfer,Tech Solutions
+EXP0762,EMP133,HR,Travel,3348.04,2025-05-20,Credit Card,Cloud Services
+EXP0763,EMP112,Finance,Travel,2540.27,2025-06-04,Credit Card,Tech Solutions
+EXP0764,EMP143,HR,Training,1277.63,2025-04-13,Bank Transfer,ABC Travels
+EXP0765,EMP140,Finance,Food,1080.61,2025-12-07,Bank Transfer,Learning Hub
+EXP0766,EMP108,HR,Training,1095.78,2025-07-11,Credit Card,ABC Travels
+EXP0767,EMP121,IT,Office Supplies,1059.18,2025-11-01,Bank Transfer,Global Hotels
+EXP0768,EMP119,IT,Software,5181.05,2025-01-06,Cash,Cloud Services
+EXP0769,EMP104,Marketing,Food,1005.5,2025-10-20,Debit Card,Global Hotels
+EXP0770,EMP132,Finance,Office Supplies,1047.49,2025-09-26,Credit Card,ABC Travels
+EXP0771,EMP135,Marketing,Software,7930.76,2025-07-05,Debit Card,Learning Hub
+EXP0772,EMP148,IT,Software,2827.34,2025-07-29,Cash,ABC Travels
+EXP0773,EMP147,Marketing,Food,1407.22,2025-05-17,Cash,Learning Hub
+EXP0774,EMP103,Marketing,Training,3243.89,2025-10-17,Debit Card,Learning Hub
+EXP0775,EMP110,HR,Travel,5631.47,2025-12-26,Bank Transfer,Tech Solutions
+EXP0776,EMP115,Sales,Office Supplies,1965.51,2025-04-23,Bank Transfer,Office World
+EXP0777,EMP134,Finance,Accommodation,3746.21,2025-06-24,Bank Transfer,City Transport
+EXP0778,EMP123,HR,Software,6302.25,2025-05-12,Cash,City Transport
+EXP0779,EMP103,Finance,Training,1953.05,2025-06-07,Debit Card,Food Express
+EXP0780,EMP121,Finance,Software,6816.64,2025-08-02,Debit Card,Food Express
+EXP0781,EMP146,Finance,Software,3015.62,2025-05-23,Cash,City Transport
+EXP0782,EMP149,Finance,Accommodation,6085.24,2025-03-11,Bank Transfer,Learning Hub
+EXP0783,EMP128,Marketing,Software,5069.92,2025-05-29,Bank Transfer,Cloud Services
+EXP0784,EMP149,IT,Food,928.75,2025-06-29,Cash,City Transport
+EXP0785,EMP137,IT,Accommodation,7459.92,2025-08-25,Cash,Tech Solutions
+EXP0786,EMP148,Sales,Training,2073.48,2025-03-14,Debit Card,ABC Travels
+EXP0787,EMP112,Marketing,Office Supplies,1749.18,2025-04-18,Bank Transfer,Global Hotels
+EXP0788,EMP130,Sales,Office Supplies,1945.95,2025-08-08,Credit Card,City Transport
+EXP0789,EMP131,HR,Accommodation,3680.5,2025-06-11,Cash,ABC Travels
+EXP0790,EMP137,Marketing,Travel,4018.61,2025-02-09,Bank Transfer,ABC Travels
+EXP0791,EMP142,Finance,Travel,4676.97,2025-07-01,Credit Card,City Transport
+EXP0792,EMP108,Finance,Training,3386.75,2025-07-27,Debit Card,City Transport
+EXP0793,EMP117,Finance,Travel,4565.21,2025-05-21,Debit Card,ABC Travels
+EXP0794,EMP147,Sales,Training,3828.44,2025-01-14,Cash,Food Express
+EXP0795,EMP135,Sales,Office Supplies,2019.31,2025-09-02,Cash,Cloud Services
+EXP0796,EMP134,Sales,Training,1382.84,2025-08-05,Debit Card,City Transport
+EXP0797,EMP150,Sales,Food,730.07,2025-07-17,Debit Card,Office World
+EXP0798,EMP107,Finance,Travel,5431.14,2025-01-13,Cash,Office World
+EXP0799,EMP135,IT,Office Supplies,396.89,2025-12-03,Bank Transfer,Office World
+EXP0800,EMP140,Marketing,Office Supplies,1187.06,2025-02-13,Cash,Food Express
+EXP0801,EMP101,Sales,Travel,6445.93,2025-02-19,Bank Transfer,Learning Hub
+EXP0802,EMP114,Marketing,Accommodation,5721.63,2025-05-08,Credit Card,Learning Hub
+EXP0803,EMP104,Marketing,Office Supplies,364.14,2025-07-09,Credit Card,Global Hotels
+EXP0804,EMP108,Marketing,Accommodation,6970.8,2025-09-16,Cash,City Transport
+EXP0805,EMP107,IT,Travel,3221.78,2025-09-21,Cash,Office World
+EXP0806,EMP110,IT,Food,611.56,2025-10-13,Debit Card,Global Hotels
+EXP0807,EMP134,HR,Accommodation,7466.75,2025-03-01,Bank Transfer,Cloud Services
+EXP0808,EMP146,Sales,Accommodation,2056.41,2025-05-02,Cash,Office World
+EXP0809,EMP115,Sales,Training,2255.85,2025-05-26,Cash,Global Hotels
+EXP0810,EMP148,Finance,Accommodation,8311.08,2025-01-06,Cash,Tech Solutions
+EXP0811,EMP104,IT,Food,208.29,2025-04-06,Bank Transfer,Office World
+EXP0812,EMP106,Finance,Travel,2659.87,2025-08-02,Bank Transfer,Cloud Services
+EXP0813,EMP111,Finance,Software,3675.77,2025-09-04,Credit Card,Tech Solutions
+EXP0814,EMP123,HR,Office Supplies,2494.77,2025-03-17,Debit Card,ABC Travels
+EXP0815,EMP123,HR,Travel,3174.71,2025-11-25,Debit Card,Tech Solutions
+EXP0816,EMP123,Sales,Accommodation,4150.51,2025-09-13,Debit Card,ABC Travels
+EXP0817,EMP110,Marketing,Food,422.22,2025-01-25,Debit Card,Global Hotels
+EXP0818,EMP141,Finance,Training,2965.52,2025-05-07,Credit Card,Cloud Services
+EXP0819,EMP135,IT,Software,3349.36,2025-09-23,Bank Transfer,Tech Solutions
+EXP0820,EMP102,Sales,Accommodation,8637.76,2025-07-28,Cash,ABC Travels
+EXP0821,EMP116,HR,Food,265.81,2025-11-27,Credit Card,Tech Solutions
+EXP0822,EMP116,HR,Office Supplies,363.04,2025-12-12,Debit Card,ABC Travels
+EXP0823,EMP142,Marketing,Office Supplies,974.15,2025-10-31,Cash,Office World
+EXP0824,EMP126,Sales,Software,7816.6,2025-05-10,Bank Transfer,Tech Solutions
+EXP0825,EMP113,IT,Training,1972.24,2025-01-12,Debit Card,Tech Solutions
+EXP0826,EMP121,Finance,Accommodation,4222.88,2025-10-19,Cash,Food Express
+EXP0827,EMP147,HR,Software,4150.41,2025-12-15,Cash,Food Express
+EXP0828,EMP129,HR,Accommodation,8094.44,2025-10-20,Bank Transfer,City Transport
+EXP0829,EMP121,Marketing,Training,3763.81,2025-04-16,Cash,Food Express
+EXP0830,EMP106,IT,Software,4831.9,2025-10-08,Bank Transfer,Office World
+EXP0831,EMP105,HR,Training,1627.83,2025-05-26,Debit Card,Office World
+EXP0832,EMP143,Sales,Office Supplies,1833.76,2025-05-21,Debit Card,Cloud Services
+EXP0833,EMP139,Sales,Software,7202.6,2025-11-25,Bank Transfer,Tech Solutions
+EXP0834,EMP104,Marketing,Travel,2276.09,2025-10-15,Debit Card,Global Hotels
+EXP0835,EMP137,Sales,Software,5594.7,2025-03-16,Debit Card,Global Hotels
+EXP0836,EMP142,Marketing,Accommodation,8928.29,2025-03-18,Credit Card,Global Hotels
+EXP0837,EMP135,Marketing,Office Supplies,671.94,2025-06-08,Credit Card,Food Express
+EXP0838,EMP102,Sales,Office Supplies,2467.38,2025-10-15,Bank Transfer,Office World
+EXP0839,EMP132,HR,Food,1004.4,2025-09-30,Cash,Learning Hub
+EXP0840,EMP104,Sales,Office Supplies,913.66,2025-12-07,Bank Transfer,Global Hotels
+EXP0841,EMP111,HR,Software,1280.97,2025-08-13,Cash,Learning Hub
+EXP0842,EMP102,Finance,Software,6466.44,2025-07-18,Debit Card,Learning Hub
+EXP0843,EMP150,Marketing,Software,1427.05,2025-10-23,Bank Transfer,Tech Solutions
+EXP0844,EMP149,Sales,Office Supplies,1013.52,2025-10-10,Debit Card,Global Hotels
+EXP0845,EMP120,Finance,Food,947.97,2025-01-30,Debit Card,Office World
+EXP0846,EMP140,Finance,Accommodation,5248.47,2025-10-25,Credit Card,Food Express
+EXP0847,EMP116,Finance,Training,2093.57,2025-09-03,Credit Card,Cloud Services
+EXP0848,EMP141,Finance,Software,5909.68,2025-10-10,Cash,Global Hotels
+EXP0849,EMP112,HR,Travel,6608.73,2025-03-14,Debit Card,ABC Travels
+EXP0850,EMP139,HR,Travel,2922.25,2025-10-03,Cash,Global Hotels
+EXP0851,EMP114,Finance,Office Supplies,1505.92,2025-06-08,Debit Card,Food Express
+EXP0852,EMP139,Marketing,Accommodation,6038.17,2025-05-05,Cash,Food Express
+EXP0853,EMP124,HR,Training,1449.38,2025-05-26,Debit Card,Global Hotels
+EXP0854,EMP145,HR,Software,2054.81,2025-02-05,Cash,Cloud Services
+EXP0855,EMP133,Sales,Software,5238.37,2025-04-06,Credit Card,Office World
+EXP0856,EMP132,Marketing,Food,955.55,2025-05-31,Credit Card,Tech Solutions
+EXP0857,EMP114,IT,Accommodation,6632.84,2025-04-14,Bank Transfer,City Transport
+EXP0858,EMP107,Marketing,Travel,5157.81,2025-05-22,Debit Card,Learning Hub
+EXP0859,EMP134,Marketing,Travel,6073.35,2025-02-13,Credit Card,Food Express
+EXP0860,EMP114,IT,Software,5514.32,2025-09-13,Bank Transfer,Tech Solutions
+EXP0861,EMP128,Finance,Accommodation,6984.96,2025-09-30,Bank Transfer,Cloud Services
+EXP0862,EMP109,Sales,Office Supplies,2111.93,2025-05-13,Credit Card,Cloud Services
+EXP0863,EMP127,Finance,Training,4331.34,2025-11-21,Credit Card,Learning Hub
+EXP0864,EMP111,Finance,Software,1966.11,2025-04-06,Bank Transfer,City Transport
+EXP0865,EMP135,IT,Accommodation,2613.55,2025-01-16,Cash,Cloud Services
+EXP0866,EMP101,IT,Travel,3260.15,2025-04-21,Credit Card,Global Hotels
+EXP0867,EMP148,Sales,Software,5775.34,2025-01-29,Bank Transfer,ABC Travels
+EXP0868,EMP112,IT,Software,1898.28,2025-12-30,Cash,Food Express
+EXP0869,EMP119,Marketing,Travel,5922.53,2025-08-31,Debit Card,Tech Solutions
+EXP0870,EMP122,Sales,Office Supplies,710.61,2025-07-07,Cash,Office World
+EXP0871,EMP108,Sales,Accommodation,7949.72,2025-07-30,Cash,Learning Hub
+EXP0872,EMP123,HR,Food,340.46,2025-01-26,Bank Transfer,Food Express
+EXP0873,EMP148,Marketing,Travel,1973.18,2025-07-30,Bank Transfer,Tech Solutions
+EXP0874,EMP127,Marketing,Training,1240.46,2025-02-11,Bank Transfer,Cloud Services
+EXP0875,EMP149,HR,Office Supplies,897.93,2025-08-18,Debit Card,Office World
+EXP0876,EMP147,Finance,Office Supplies,2081.83,2025-02-21,Cash,City Transport
+EXP0877,EMP138,IT,Accommodation,8975.96,2025-06-03,Debit Card,Office World
+EXP0878,EMP124,IT,Office Supplies,2304.95,2025-02-15,Cash,ABC Travels
+EXP0879,EMP104,Sales,Travel,6082.62,2025-02-23,Bank Transfer,Learning Hub
+EXP0880,EMP141,Finance,Training,2536.19,2025-12-14,Bank Transfer,Food Express
+EXP0881,EMP126,HR,Software,5058.12,2025-11-09,Credit Card,Cloud Services
+EXP0882,EMP114,Sales,Office Supplies,468.79,2025-09-27,Bank Transfer,Cloud Services
+EXP0883,EMP130,Marketing,Travel,2084.86,2025-08-26,Cash,Food Express
+EXP0884,EMP142,Sales,Training,5416.37,2025-12-24,Bank Transfer,City Transport
+EXP0885,EMP123,Sales,Training,4241.17,2025-11-16,Credit Card,Global Hotels
+EXP0886,EMP110,Finance,Food,456.93,2025-11-26,Credit Card,City Transport
+EXP0887,EMP133,Sales,Food,721.9,2025-11-04,Credit Card,Office World
+EXP0888,EMP143,Sales,Software,2138.63,2025-05-12,Debit Card,Global Hotels
+EXP0889,EMP109,Marketing,Travel,1730.8,2025-06-27,Credit Card,Tech Solutions
+EXP0890,EMP143,Sales,Office Supplies,950.03,2025-09-01,Bank Transfer,Learning Hub
+EXP0891,EMP135,Finance,Food,423.71,2025-01-16,Bank Transfer,Tech Solutions
+EXP0892,EMP148,IT,Software,5300.8,2025-02-08,Debit Card,Global Hotels
+EXP0893,EMP111,Finance,Software,2405.4,2025-10-05,Debit Card,Office World
+EXP0894,EMP107,Marketing,Training,2798.97,2025-03-31,Credit Card,ABC Travels
+EXP0895,EMP106,HR,Food,1462.22,2025-08-25,Debit Card,Office World
+EXP0896,EMP137,IT,Accommodation,4958.59,2025-09-11,Debit Card,ABC Travels
+EXP0897,EMP130,HR,Travel,2320.27,2025-01-12,Bank Transfer,City Transport
+EXP0898,EMP129,Finance,Training,1430.66,2025-09-04,Credit Card,Tech Solutions
+EXP0899,EMP118,Sales,Food,1037.14,2025-06-21,Bank Transfer,City Transport
+EXP0900,EMP133,IT,Food,698.18,2025-07-05,Cash,Tech Solutions
+EXP0901,EMP104,HR,Office Supplies,2117.95,2025-07-29,Credit Card,Global Hotels
+EXP0902,EMP142,Sales,Training,2090.87,2025-05-14,Credit Card,City Transport
+EXP0903,EMP131,Finance,Accommodation,4898.99,2025-05-24,Debit Card,City Transport
+EXP0904,EMP145,Marketing,Software,1100.32,2025-09-22,Debit Card,Learning Hub
+EXP0905,EMP139,Sales,Accommodation,7345.85,2025-11-26,Debit Card,City Transport
+EXP0906,EMP110,Sales,Office Supplies,659.41,2025-12-05,Cash,Food Express
+EXP0907,EMP113,IT,Training,2925.51,2025-10-21,Credit Card,Tech Solutions
+EXP0908,EMP121,IT,Food,388.92,2025-06-28,Bank Transfer,Food Express
+EXP0909,EMP114,Sales,Office Supplies,2231.67,2025-11-12,Credit Card,Food Express
+EXP0910,EMP124,Finance,Training,5111.7,2025-10-05,Credit Card,Food Express
+EXP0911,EMP146,Marketing,Travel,3317.15,2025-07-27,Cash,Learning Hub
+EXP0912,EMP117,Finance,Travel,6653.1,2025-12-11,Cash,Global Hotels
+EXP0913,EMP106,Finance,Software,3506.98,2025-06-20,Bank Transfer,Food Express
+EXP0914,EMP143,IT,Travel,2284.06,2025-05-21,Debit Card,Office World
+EXP0915,EMP127,HR,Office Supplies,309.21,2025-04-02,Cash,City Transport
+EXP0916,EMP146,Finance,Software,5057.33,2025-03-09,Credit Card,Global Hotels
+EXP0917,EMP148,IT,Food,979.17,2025-10-07,Bank Transfer,Cloud Services
+EXP0918,EMP118,Sales,Accommodation,3186.53,2025-05-28,Bank Transfer,Global Hotels
+EXP0919,EMP112,HR,Food,911.01,2025-06-24,Bank Transfer,Food Express
+EXP0920,EMP135,HR,Travel,5061.02,2025-05-27,Bank Transfer,Food Express
+EXP0921,EMP144,HR,Training,5808.08,2025-02-14,Cash,ABC Travels
+EXP0922,EMP123,Finance,Office Supplies,1927.3,2025-08-02,Cash,Cloud Services
+EXP0923,EMP128,IT,Food,1253.61,2025-08-08,Cash,Tech Solutions
+EXP0924,EMP149,Finance,Office Supplies,1448.15,2025-06-29,Credit Card,Global Hotels
+EXP0925,EMP116,IT,Food,1047.96,2025-06-17,Debit Card,Food Express
+EXP0926,EMP148,Marketing,Training,1295.89,2025-01-28,Bank Transfer,Office World
+EXP0927,EMP121,Sales,Training,1055.39,2025-08-02,Debit Card,Learning Hub
+EXP0928,EMP123,Sales,Travel,3749.97,2025-05-14,Bank Transfer,Learning Hub
+EXP0929,EMP113,IT,Office Supplies,1220.46,2025-06-07,Bank Transfer,Global Hotels
+EXP0930,EMP145,Finance,Accommodation,5302.18,2025-12-13,Cash,Global Hotels
+EXP0931,EMP148,IT,Office Supplies,1080.63,2025-02-19,Cash,Tech Solutions
+EXP0932,EMP131,IT,Travel,5596.05,2025-11-09,Credit Card,Global Hotels
+EXP0933,EMP137,Sales,Accommodation,5083.77,2025-05-28,Debit Card,Food Express
+EXP0934,EMP150,Marketing,Travel,5317.1,2025-01-25,Credit Card,Cloud Services
+EXP0935,EMP114,IT,Travel,2834.18,2025-03-16,Debit Card,Learning Hub
+EXP0936,EMP119,IT,Accommodation,5301.55,2025-06-01,Debit Card,Learning Hub
+EXP0937,EMP135,Finance,Software,3851.56,2025-08-25,Debit Card,ABC Travels
+EXP0938,EMP143,Marketing,Travel,1624.1,2025-05-06,Debit Card,ABC Travels
+EXP0939,EMP125,HR,Accommodation,7671.13,2025-07-30,Cash,Cloud Services
+EXP0940,EMP144,IT,Travel,4646.68,2025-12-02,Cash,City Transport
+EXP0941,EMP106,HR,Food,766.79,2025-02-14,Credit Card,Global Hotels
+EXP0942,EMP130,Finance,Office Supplies,493.13,2025-01-10,Credit Card,Office World
+EXP0943,EMP131,HR,Software,1102.26,2025-11-25,Bank Transfer,Office World
+EXP0944,EMP116,Finance,Accommodation,7590.59,2025-07-28,Bank Transfer,Tech Solutions
+EXP0945,EMP120,Finance,Software,5949.11,2025-09-18,Bank Transfer,Global Hotels
+EXP0946,EMP110,HR,Accommodation,8522.18,2025-04-19,Credit Card,City Transport
+EXP0947,EMP109,Finance,Office Supplies,408.29,2025-09-13,Debit Card,Food Express
+EXP0948,EMP113,IT,Office Supplies,2287.09,2025-10-25,Cash,Learning Hub
+EXP0949,EMP107,Sales,Software,3496.0,2025-03-14,Debit Card,Cloud Services
+EXP0950,EMP126,Marketing,Accommodation,8541.81,2025-07-25,Bank Transfer,Food Express
+EXP0951,EMP117,Finance,Food,627.13,2025-07-02,Credit Card,Global Hotels
+EXP0952,EMP142,Finance,Accommodation,4997.29,2025-08-08,Bank Transfer,Cloud Services
+EXP0953,EMP120,IT,Food,391.4,2025-03-16,Cash,Food Express
+EXP0954,EMP116,IT,Training,3026.63,2025-11-14,Cash,Learning Hub
+EXP0955,EMP114,Finance,Software,6565.41,2025-02-04,Credit Card,Tech Solutions
+EXP0956,EMP147,Marketing,Training,2696.2,2025-05-24,Debit Card,Learning Hub
+EXP0957,EMP142,IT,Food,612.03,2025-03-24,Credit Card,City Transport
+EXP0958,EMP134,Sales,Accommodation,8099.21,2025-01-10,Cash,ABC Travels
+EXP0959,EMP146,HR,Training,4412.7,2025-12-03,Cash,Tech Solutions
+EXP0960,EMP103,HR,Office Supplies,973.3,2025-10-11,Bank Transfer,Cloud Services
+EXP0961,EMP121,Sales,Training,3227.05,2025-06-25,Debit Card,Learning Hub
+EXP0962,EMP122,IT,Office Supplies,2380.65,2025-08-12,Bank Transfer,City Transport
+EXP0963,EMP108,Finance,Accommodation,6935.29,2025-07-10,Cash,Cloud Services
+EXP0964,EMP145,Marketing,Office Supplies,2220.69,2025-09-03,Cash,City Transport
+EXP0965,EMP107,IT,Travel,4115.12,2025-08-18,Cash,City Transport
+EXP0966,EMP136,Finance,Office Supplies,2140.17,2025-06-27,Credit Card,ABC Travels
+EXP0967,EMP132,IT,Travel,4034.94,2025-02-17,Bank Transfer,Office World
+EXP0968,EMP131,IT,Software,4281.53,2025-09-10,Bank Transfer,ABC Travels
+EXP0969,EMP114,Marketing,Software,1788.13,2025-02-19,Debit Card,City Transport
+EXP0970,EMP115,IT,Food,1020.79,2025-09-21,Bank Transfer,Cloud Services
+EXP0971,EMP132,Sales,Travel,2227.58,2025-12-18,Cash,Cloud Services
+EXP0972,EMP115,Marketing,Travel,2718.34,2025-02-03,Cash,Cloud Services
+EXP0973,EMP125,Finance,Accommodation,5643.81,2025-07-11,Debit Card,Cloud Services
+EXP0974,EMP114,IT,Training,3370.03,2025-12-23,Credit Card,Learning Hub
+EXP0975,EMP122,Sales,Software,3955.35,2025-09-02,Bank Transfer,Food Express
+EXP0976,EMP116,HR,Food,1075.61,2025-09-30,Debit Card,City Transport
+EXP0977,EMP106,HR,Software,4590.12,2025-12-16,Credit Card,City Transport
+EXP0978,EMP141,Finance,Accommodation,3817.22,2025-01-16,Credit Card,Learning Hub
+EXP0979,EMP109,Finance,Accommodation,8034.53,2025-11-18,Bank Transfer,Office World
+EXP0980,EMP118,HR,Accommodation,2842.55,2025-04-07,Bank Transfer,ABC Travels
+EXP0981,EMP118,Finance,Travel,2155.27,2025-09-17,Bank Transfer,Tech Solutions
+EXP0982,EMP136,IT,Travel,5452.95,2025-04-15,Cash,Cloud Services
+EXP0983,EMP149,HR,Food,446.84,2025-02-25,Credit Card,Learning Hub
+EXP0984,EMP143,HR,Training,2706.22,2025-08-17,Bank Transfer,Food Express
+EXP0985,EMP130,HR,Travel,6237.95,2025-07-01,Debit Card,Global Hotels
+EXP0986,EMP118,HR,Software,7921.88,2025-09-05,Debit Card,City Transport
+EXP0987,EMP150,HR,Travel,6375.76,2025-11-01,Bank Transfer,Food Express
+EXP0988,EMP147,Sales,Food,649.25,2025-09-08,Cash,Global Hotels
+EXP0989,EMP124,IT,Office Supplies,49641.76045495329,2025-01-20,Bank Transfer,Cloud Services
+EXP0990,EMP147,Finance,Training,42336.12201635562,2025-01-24,Bank Transfer,Tech Solutions
+EXP0991,EMP129,Finance,Software,49900.87602044044,2025-10-13,Debit Card,Tech Solutions
+EXP0992,EMP134,Marketing,Training,33546.6723621738,2025-02-11,Credit Card,City Transport
+EXP0993,EMP146,HR,Food,42044.92831694629,2025-07-26,Cash,Cloud Services
+EXP0994,EMP150,IT,Office Supplies,53793.85613889169,2025-10-18,Credit Card,ABC Travels
+EXP0995,EMP101,Marketing,Accommodation,36615.263614099444,2025-11-17,Bank Transfer,Food Express
+EXP0996,EMP140,Sales,Software,35578.84522672253,2025-02-23,Debit Card,Learning Hub
+EXP0997,EMP143,Marketing,Travel,58524.55979749294,2025-07-11,Credit Card,ABC Travels
+EXP0998,EMP115,IT,Software,36296.928887586924,2025-04-18,Debit Card,Cloud Services
+EXP0999,EMP107,Sales,Software,37827.55738950504,2025-01-16,Cash,Tech Solutions
+EXP1000,EMP137,HR,Food,59088.47816713014,2025-03-22,Cash,Cloud Services
+EXP_DUP001,EMP108,Marketing,Accommodation,5335.38,2025-11-25,Cash,Food Express
+EXP_DUP002,EMP105,HR,Office Supplies,1539.5,2025-04-06,Cash,Cloud Services
+EXP_DUP003,EMP115,Sales,Travel,4658.58,2025-04-16,Bank Transfer,City Transport
+EXP_DUP004,EMP128,Sales,Accommodation,2493.44,2025-07-21,Credit Card,Global Hotels
+EXP_DUP005,EMP110,HR,Accommodation,3291.33,2025-03-02,Debit Card,Tech Solutions
